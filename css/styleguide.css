@@ -1,0 +1,187 @@
+:root { 
+  --black: #000000;
+  --mercury: #e4e4e7;
+  --purple-heart: #6038ff;
+  --santas-gray: #a1a1aa;
+  --screamin-green: #84fb72;
+  --sonic-silver: #71717a;
+  --white: #ffffff;
+  --woodsmoke: #0f0f0f;
+ 
+  --font-size-l: 16px;
+  --font-size-m: 14px;
+  --font-size-s: 12px;
+  --font-size-xl: 18px;
+  --font-size-xxl: 24px;
+  --font-size-xxxl: 28px;
+  --font-size-xxxxl: 30px;
+ 
+  --font-family-fugaz_one-regular: "Fugaz One-Regular", Helvetica;
+  --font-family-poppins: "Poppins", Helvetica;
+  --font-family-raleway-light: "Raleway-Light", Helvetica;
+  --font-family-raleway-medium: "Raleway-Medium", Helvetica;
+  --font-family-raleway-regular: "Raleway-Regular", Helvetica;
+}
+.poppins-bold-white-28px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.poppins-bold-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.poppins-normal-sonic-silver-14px {
+  color: var(--sonic-silver);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-normal-sonic-silver-12px {
+  color: var(--sonic-silver);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-normal-white-40px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-light-santas-gray-14px {
+  color: var(--santas-gray);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.poppins-bold-purple-heart-16px {
+  color: var(--purple-heart);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.poppins-normal-white-42px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-bold-purple-heart-12px {
+  color: var(--purple-heart);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.poppins-light-santas-gray-24px {
+  color: var(--santas-gray);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.poppins-normal-white-48px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-bold-screamin-green-16px {
+  color: var(--screamin-green);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.poppins-bold-screamin-green-12px {
+  color: var(--screamin-green);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.fugazone-regular-normal-white-108px {
+  color: var(--white);
+  font-family: var(--font-family-fugaz_one-regular);
+  font-size: 108px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-semi-bold-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.poppins-extra-bold-white-90px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 90px;
+  font-style: italic;
+  font-weight: 800;
+}
+
+.poppins-semi-bold-black-12px {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.poppins-extra-bold-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 800;
+}
+
+.raleway-regular-normal-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-raleway-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.border-1px-purple-heart {
+  border: 1px solid var(--purple-heart);
+}
+
+.border-1px-screamin-green {
+  border: 1px solid var(--screamin-green);
+}
+
+.border-1px-white {
+  border: 1px solid var(--white);
+}

@@ -1,0 +1,1694 @@
+/* screen - gglabs-mobile-home */
+
+.gglabs-mobile-home {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 5999px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.gglabs-mobile-home .overlap-group11 {
+  height: 7058px;
+  position: relative;
+  width: 392px;
+}
+
+.gglabs-mobile-home .rectangle-13 {
+  background-color: #0e0e0e;
+  height: 7058px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.gglabs-mobile-home .overlap-group-2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 275px;
+  padding: 22px 0;
+  position: absolute;
+  top: 5724px;
+  width: 360px;
+}
+
+.gglabs-mobile-home .hellogoodganglabscom {
+  letter-spacing: 0;
+  margin-right: 20px;
+  min-height: 18px;
+  min-width: 163px;
+  text-align: right;
+}
+
+.gglabs-mobile-home .privacy-policy {
+  letter-spacing: 0;
+  margin-right: 20px;
+  margin-top: 14px;
+  min-height: 18px;
+  min-width: 85px;
+  text-align: right;
+}
+
+.gglabs-mobile-home .terms-conditions {
+  letter-spacing: 0;
+  margin-right: 20px;
+  margin-top: 14px;
+  min-height: 18px;
+  min-width: 120px;
+  text-align: right;
+}
+
+.gglabs-mobile-home .logog-glabsmain {
+  align-items: center;
+  align-self: flex-start;
+  display: flex;
+  margin-left: 20px;
+  margin-top: 88px;
+  min-width: 120px;
+}
+
+.gglabs-mobile-home .vector {
+  height: 35px;
+  width: 53px;
+}
+
+.gglabs-mobile-home .union {
+  height: 30px;
+  margin-bottom: 0.41px;
+  margin-left: 4px;
+  width: 64px;
+}
+
+.gglabs-mobile-home .x2021-good-gang-labs {
+  align-self: flex-start;
+  color: var(--santas-gray);
+  font-family: var(--font-family-poppins);
+  font-size: 9px;
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-left: 20px;
+  margin-top: 8px;
+  min-height: 14px;
+}
+
+.gglabs-mobile-home .frame-172 {
+  height: 640px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.gglabs-mobile-home .group-173 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 20px;
+  min-height: 204px;
+  position: absolute;
+  top: 704px;
+  width: 320px;
+}
+
+.gglabs-mobile-home .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 54px;
+  min-width: 300px;
+}
+
+.gglabs-mobile-home .surname {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 48px;
+  font-style: italic;
+  font-weight: 800;
+  letter-spacing: -0.96px;
+  line-height: 54px;
+  min-height: 54px;
+  min-width: 145px;
+  white-space: nowrap;
+}
+
+.gglabs-mobile-home .gang-1 {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 48px;
+  font-style: italic;
+  font-weight: 800;
+  letter-spacing: -0.96px;
+  line-height: 54px;
+  margin-left: 12px;
+  min-height: 54px;
+  white-space: nowrap;
+}
+
+.gglabs-mobile-home .to-change-the-world {
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: 20px;
+  min-height: 130px;
+  text-align: center;
+  width: 320px;
+}
+
+.gglabs-mobile-home .group-176 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 20px;
+  min-height: 769px;
+  position: absolute;
+  top: 984px;
+  width: 320px;
+}
+
+.gglabs-mobile-home .are-you-ready-to-be {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: italic;
+  font-weight: 300;
+  letter-spacing: 0;
+  min-height: 108px;
+  width: 288px;
+}
+
+.gglabs-mobile-home .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-93-1@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  min-height: 249px;
+  padding: 16px 0;
+  width: 320px;
+}
+
+.gglabs-mobile-home .overlap-group-3 {
+  border-radius: 53px;
+  height: 34px;
+  margin-left: 16px;
+  position: relative;
+  width: 112px;
+}
+
+.gglabs-mobile-home .place {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 800;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.gglabs-mobile-home .rectangle-75 {
+  border-radius: 53px;
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 112px;
+}
+
+.gglabs-mobile-home .make-the-world-fun-a {
+  align-self: center;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  letter-spacing: 0;
+  margin-top: 16px;
+  min-height: 135px;
+  width: 288px;
+}
+
+.gglabs-mobile-home .overlap-group2 {
+  height: 217px;
+  position: relative;
+  width: 320px;
+}
+
+.gglabs-mobile-home .rectangle-92 {
+  height: 182px;
+  left: 0;
+  position: absolute;
+  top: 35px;
+  width: 320px;
+}
+
+.gglabs-mobile-home .build-a-good-web-30 {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: 22px;
+  font-weight: 800;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 33px;
+  position: absolute;
+  top: 98px;
+  width: 288px;
+}
+
+.gglabs-mobile-home .text-13 {
+  color: var(--mercury);
+  font-family: var(--font-family-poppins);
+  font-size: 60px;
+  font-weight: 900;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.gglabs-mobile-home .group-149 {
+  height: 155px;
+  margin-top: 20px;
+  width: 320px;
+}
+
+.gglabs-mobile-home .group-178 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 20px;
+  min-height: 959px;
+  position: absolute;
+  top: 1861px;
+  width: 322px;
+}
+
+.gglabs-mobile-home .project {
+  letter-spacing: -0.72px;
+  line-height: 44px;
+  min-height: 44px;
+  text-shadow: -12px 0px 9px #5530301f;
+  white-space: nowrap;
+}
+
+.gglabs-mobile-home .img_avatar_lyquid {
+  height: 320px;
+  margin-top: 24px;
+  width: 320px;
+}
+
+.gglabs-mobile-home .group-118 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 12px;
+  min-height: 83px;
+  width: 324px;
+}
+
+.gglabs-mobile-home .img_arrow {
+  align-self: flex-end;
+  height: 25px;
+  margin-right: 4px;
+  width: 46px;
+}
+
+.gglabs-mobile-home .gang {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  letter-spacing: -0.48px;
+  line-height: 32px;
+  margin-top: 4px;
+  min-height: 32px;
+  white-space: nowrap;
+}
+
+.gglabs-mobile-home .an-nft-avatar-collection {
+  letter-spacing: -0.28px;
+  line-height: 20px;
+  margin-top: 2px;
+  min-height: 20px;
+  text-shadow: -12px 0px 9px #5530301f;
+  white-space: nowrap;
+}
+
+.gglabs-mobile-home .img_avatar_lyquid-1 {
+  height: 320px;
+  margin-top: 54px;
+  width: 320px;
+}
+
+.gglabs-mobile-home .group-177 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 12px;
+  min-height: 90px;
+  width: 324px;
+}
+
+.gglabs-mobile-home .overlap-group-4 {
+  align-items: flex-start;
+  align-self: flex-end;
+  border: 1px solid var(--santas-gray);
+  border-radius: 36px;
+  display: flex;
+  height: 32px;
+  margin-right: 4px;
+  min-width: 128px;
+  padding: 5px 9px;
+}
+
+.gglabs-mobile-home .coming-soon {
+  letter-spacing: -0.28px;
+  line-height: 20px;
+  min-height: 20px;
+  text-shadow: -12px 0px 9px #5530301f;
+  white-space: nowrap;
+}
+
+.gglabs-mobile-home .a-private-3-d-metaverse-pub {
+  letter-spacing: -0.28px;
+  line-height: 20px;
+  margin-top: 2px;
+  min-height: 20px;
+  text-shadow: -12px 0px 9px #5530301f;
+  white-space: nowrap;
+}
+
+.gglabs-mobile-home .we-are-gg-labs {
+  left: 20px;
+  letter-spacing: -0.72px;
+  line-height: 44px;
+  position: absolute;
+  text-shadow: -12px 0px 9px #5530301f;
+  top: 5074px;
+}
+
+.gglabs-mobile-home .group-149-1 {
+  align-items: flex-start;
+  border: 4px solid var(--white);
+  border-radius: 68px;
+  display: flex;
+  height: 136px;
+  left: 256px;
+  min-width: 136px;
+  opacity: 0.1;
+  padding: 7.0px 19.5px;
+  position: absolute;
+  top: 5006px;
+}
+
+.gglabs-mobile-home .overlap-group3 {
+  height: 122px;
+  position: relative;
+  width: 97px;
+}
+
+.gglabs-mobile-home .ellipse-12 {
+  border-radius: 47.9px;
+  height: 96px;
+  left: 1px;
+  position: absolute;
+  top: 13px;
+  width: 96px;
+}
+
+.gglabs-mobile-home .group {
+  height: 122px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 97px;
+}
+
+.gglabs-mobile-home .logog-glabssymbol {
+  height: 44px;
+  left: 16px;
+  position: absolute;
+  top: 39px;
+  width: 66px;
+}
+
+.gglabs-mobile-home .want-to-join-our-ete {
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 5236px;
+  width: 320px;
+}
+
+.gglabs-mobile-home .span1 {
+  color: var(--santas-gray);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+}
+
+.gglabs-mobile-home .please-follow-our-so {
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 5372px;
+  width: 320px;
+}
+
+.gglabs-mobile-home .group-34 {
+  align-items: center;
+  background-color: #5b68ea;
+  border-radius: 2px;
+  display: flex;
+  height: 44px;
+  left: 88px;
+  min-width: 56px;
+  padding: 0 16px;
+  position: absolute;
+  top: 5438px;
+}
+
+.gglabs-mobile-home .iconsns {
+  height: 24px;
+  width: 24px;
+}
+
+.gglabs-mobile-home .group-35 {
+  align-items: center;
+  background-color: #4fa5f1;
+  border-radius: 2px;
+  display: flex;
+  height: 44px;
+  left: 20px;
+  min-width: 56px;
+  padding: 0 16px;
+  position: absolute;
+  top: 5438px;
+}
+
+.gglabs-mobile-home .contact-us {
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 5202px;
+  white-space: nowrap;
+}
+
+.gglabs-mobile-home .social-media {
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 5338px;
+  white-space: nowrap;
+  width: 327px;
+}
+
+.gglabs-mobile-home .group-179 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 20px;
+  min-height: 2030px;
+  position: absolute;
+  top: 2932px;
+  width: 324px;
+}
+
+.gglabs-mobile-home .the-team {
+  letter-spacing: -0.72px;
+  line-height: 44px;
+  min-height: 44px;
+  text-shadow: -12px 0px 9px #5530301f;
+  white-space: nowrap;
+}
+
+.gglabs-mobile-home .good-gang-labs-is-mad {
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: 20px;
+  min-height: 208px;
+  width: 320px;
+}
+
+.gglabs-mobile-home .uig-glabsteam_mobile-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 28px;
+  min-width: 320px;
+}
+
+.gglabs-mobile-home .overlap-group {
+  height: 142px;
+  position: relative;
+  width: 320px;
+}
+
+.gglabs-mobile-home .frame-3 {
+  align-items: flex-start;
+  background-color: var(--woodsmoke);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 120px;
+  padding: 20px 0;
+  position: absolute;
+  top: 22px;
+  width: 320px;
+}
+
+.gglabs-mobile-home .my-hot-burger-owner {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 16px;
+  margin-top: 12px;
+  min-height: 16px;
+  white-space: nowrap;
+}
+
+.gglabs-mobile-home .frame-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 8px;
+  min-height: 44px;
+  width: 288px;
+}
+
+.gglabs-mobile-home .name {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.gglabs-mobile-home .desire-to-make-the-h {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 4px;
+  min-height: 16px;
+  white-space: nowrap;
+}
+
+.gglabs-mobile-home .text {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.gglabs-mobile-home .uig-glabsteam_mobile {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 12px;
+  min-width: 320px;
+}
+
+.gglabs-mobile-home .patty-boop {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.gglabs-mobile-home .patty-boop-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.gglabs-mobile-home .overlap-group-1 {
+  height: 158px;
+  position: relative;
+  width: 320px;
+}
+
+.gglabs-mobile-home .frame-3-1 {
+  align-items: flex-start;
+  background-color: var(--woodsmoke);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 136px;
+  padding: 20px 0;
+  position: absolute;
+  top: 22px;
+  width: 320px;
+}
+
+.gglabs-mobile-home .frame-1-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 8px;
+  min-height: 60px;
+  width: 288px;
+}
+
+.gglabs-mobile-home .patty-boop-2 {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.gglabs-mobile-home .desire-to-make-the-h-1 {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 4px;
+  min-height: 32px;
+  width: 288px;
+}
+
+.gglabs-mobile-home .patty-boop-3 {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.gglabs-mobile-home .patty-boop-4 {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.gglabs-mobile-home .patty-boop-5 {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.gglabs-mobile-home .patty-boop-6 {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.gglabs-mobile-home .patty-boop-7 {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.gglabs-mobile-home .patty-boop-8 {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.gglabs-mobile-home .patty-boop-9 {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+/* screen - gglabs-web-home */
+
+.gglabs-web-home {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 7238px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.gglabs-web-home .overlap-group13 {
+  height: 7939px;
+  margin-top: 0;
+  position: relative;
+  width: 1920px;
+}
+
+.gglabs-web-home .rectangle-28 {
+  background-color: var(--woodsmoke);
+  height: 6861px;
+  left: 0;
+  position: absolute;
+  top: 1078px;
+  width: 1920px;
+}
+
+.gglabs-web-home .group-135 {
+  align-items: flex-start;
+  background-color: #f4f4f5;
+  display: flex;
+  height: 288px;
+  left: 0;
+  min-width: 1920px;
+  padding: 52px 360px;
+  position: absolute;
+  top: 6950px;
+}
+
+.gglabs-web-home .labs-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 77px;
+  width: 308px;
+}
+
+.gglabs-web-home .logog-glabsmain-1 {
+  align-items: center;
+  display: flex;
+  min-width: 150px;
+}
+
+.gglabs-web-home .vector-1 {
+  height: 44px;
+  width: 66px;
+}
+
+.gglabs-web-home .union-1 {
+  height: 37px;
+  margin-bottom: 0.51px;
+  margin-left: 6px;
+  width: 79px;
+}
+
+.gglabs-web-home .x2021-good-gang-labs-1 {
+  color: var(--santas-gray);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-top: 15px;
+  min-height: 18px;
+}
+
+.gglabs-web-home .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 674px;
+  margin-top: 6px;
+  min-height: 104px;
+  width: 218px;
+}
+
+.gglabs-web-home .hellogoodganglabscom-1 {
+  letter-spacing: 0;
+  min-height: 24px;
+  min-width: 218px;
+}
+
+.gglabs-web-home .privacy-policy-1 {
+  letter-spacing: 0;
+  margin-right: 1px;
+  margin-top: 16px;
+  min-height: 24px;
+  min-width: 113px;
+}
+
+.gglabs-web-home .terms-conditions-1 {
+  letter-spacing: 0;
+  margin-right: 1px;
+  margin-top: 16px;
+  min-height: 24px;
+  min-width: 160px;
+}
+
+.gglabs-web-home .group-164 {
+  height: 1080px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.gglabs-web-home .we-are-gg-labs-1 {
+  left: 360px;
+  letter-spacing: -1.80px;
+  line-height: 100px;
+  position: absolute;
+  top: 5880px;
+}
+
+.gglabs-web-home .want-to-join-our-ete-1 {
+  left: 870px;
+  letter-spacing: 0;
+  line-height: 44px;
+  position: absolute;
+  top: 6047px;
+  width: 690px;
+}
+
+.gglabs-web-home .span1-1 {
+  color: var(--santas-gray);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+}
+
+.gglabs-web-home .group-165 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 360px;
+  min-height: 1009px;
+  position: absolute;
+  top: 2906px;
+  width: 1202px;
+}
+
+.gglabs-web-home .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 897px;
+  margin-right: 2px;
+  min-width: 1200px;
+}
+
+.gglabs-web-home .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 880px;
+  width: 592px;
+}
+
+.gglabs-web-home .project-1 {
+  letter-spacing: -1.80px;
+  line-height: 130px;
+  min-height: 130px;
+  white-space: nowrap;
+}
+
+.gglabs-web-home .img_avatar_lyquid-2 {
+  height: 588px;
+  margin-top: 50px;
+  width: 588px;
+}
+
+.gglabs-web-home .group-118-1 {
+  align-items: center;
+  display: flex;
+  height: 82px;
+  margin-top: 30px;
+  min-width: 592px;
+}
+
+.gglabs-web-home .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 82px;
+  width: 466px;
+}
+
+.gglabs-web-home .beergang {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 38px;
+  font-weight: 700;
+  letter-spacing: -0.76px;
+  line-height: 56px;
+  min-height: 56px;
+  white-space: nowrap;
+}
+
+.gglabs-web-home .an-nft-avatar-collection-1 {
+  color: var(--santas-gray);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  letter-spacing: -0.36px;
+  line-height: 24px;
+  margin-top: 2px;
+  min-height: 24px;
+  text-shadow: -12px 0px 9px #5530301f;
+  white-space: nowrap;
+}
+
+.gglabs-web-home .img_arrow-1 {
+  height: 42px;
+  margin-left: 46px;
+  width: 76px;
+}
+
+.gglabs-web-home .img_avatar_lyquid-3 {
+  align-self: flex-end;
+  height: 588px;
+  margin-left: 20px;
+  width: 588px;
+}
+
+.gglabs-web-home .overlap-group2-1 {
+  height: 82px;
+  margin-right: 2px;
+  margin-top: 30px;
+  position: relative;
+  width: 588px;
+}
+
+.gglabs-web-home .overlap-group1-1 {
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 588px;
+}
+
+.gglabs-web-home .overlap-group-6 {
+  align-items: flex-start;
+  border: 1px solid var(--santas-gray);
+  border-radius: 36px;
+  display: flex;
+  height: 40px;
+  left: 425px;
+  min-width: 163px;
+  padding: 5px 15px;
+  position: absolute;
+  top: 0;
+}
+
+.gglabs-web-home .coming-soon-1 {
+  color: var(--santas-gray);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-weight: 300;
+  letter-spacing: -0.32px;
+  line-height: 28px;
+  min-height: 28px;
+  text-shadow: -12px 0px 9px #5530301f;
+  white-space: nowrap;
+}
+
+.gglabs-web-home .a-private-3-d-metaverse-pub-1 {
+  color: var(--santas-gray);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  left: 0;
+  letter-spacing: -0.36px;
+  line-height: 24px;
+  position: absolute;
+  text-shadow: -12px 0px 9px #5530301f;
+  top: 37px;
+  white-space: nowrap;
+  width: 466px;
+}
+
+.gglabs-web-home .gang-house {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 38px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: -0.76px;
+  line-height: 56px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.gglabs-web-home .contact-us-1 {
+  left: 870px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 5995px;
+  white-space: nowrap;
+  width: 327px;
+}
+
+.gglabs-web-home .group-197 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 870px;
+  min-height: 226px;
+  position: absolute;
+  top: 6231px;
+  width: 701px;
+}
+
+.gglabs-web-home .social-media-1 {
+  letter-spacing: 0;
+  line-height: 36px;
+  min-height: 36px;
+  white-space: nowrap;
+}
+
+.gglabs-web-home .please-follow-our-so-1 {
+  letter-spacing: 0;
+  line-height: 44px;
+  margin-top: 16px;
+  min-height: 88px;
+  width: 697px;
+}
+
+.gglabs-web-home .group-container {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 18px;
+  min-width: 168px;
+}
+
+.gglabs-web-home .group-35-1 {
+  align-items: center;
+  background-color: #4fa5f1;
+  border-radius: 2px;
+  display: flex;
+  height: 68px;
+  min-width: 78px;
+  padding: 0 19px;
+}
+
+.gglabs-web-home .iconsns-1 {
+  height: 40px;
+  width: 40px;
+}
+
+.gglabs-web-home .group-34-1 {
+  align-items: center;
+  background-color: #5b68ea;
+  border-radius: 2px;
+  display: flex;
+  height: 68px;
+  margin-left: 12px;
+  min-width: 78px;
+  padding: 0 19px;
+}
+
+.gglabs-web-home .group-140 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 360px;
+  min-height: 292px;
+  position: absolute;
+  top: 1272px;
+  width: 1206px;
+}
+
+.gglabs-web-home .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 132px;
+  margin-right: 6.0px;
+  min-width: 740px;
+}
+
+.gglabs-web-home .surname-1 {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 122px;
+  font-style: italic;
+  font-weight: 800;
+  letter-spacing: -2.44px;
+  line-height: 132px;
+  min-height: 132px;
+  min-width: 367px;
+  white-space: nowrap;
+}
+
+.gglabs-web-home .gang-2 {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 122px;
+  font-style: italic;
+  font-weight: 800;
+  letter-spacing: -2.44px;
+  line-height: 132px;
+  margin-left: 10px;
+  min-height: 132px;
+  white-space: nowrap;
+}
+
+.gglabs-web-home .to-change-the-world-1 {
+  letter-spacing: 0;
+  line-height: 44px;
+  margin-right: 6.0px;
+  margin-top: 28px;
+  min-height: 132px;
+  text-align: center;
+  width: 1200px;
+}
+
+.gglabs-web-home .group-163 {
+  align-items: flex-start;
+  display: flex;
+  height: 918px;
+  left: 360px;
+  min-width: 1200px;
+  position: absolute;
+  top: 1709px;
+}
+
+.gglabs-web-home .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 707px;
+  width: 486px;
+}
+
+.gglabs-web-home .are-you-ready-to-be-1 {
+  color: var(--mercury);
+  font-family: var(--font-family-poppins);
+  font-size: 50px;
+  font-style: italic;
+  font-weight: 300;
+  letter-spacing: 0;
+  margin-left: 8px;
+  min-height: 300px;
+  width: 448px;
+}
+
+.gglabs-web-home .overlap-group-7 {
+  height: 364px;
+  margin-top: 43px;
+  position: relative;
+  width: 486px;
+}
+
+.gglabs-web-home .rectangle-92-1 {
+  height: 320px;
+  left: 0;
+  position: absolute;
+  top: 44px;
+  width: 486px;
+}
+
+.gglabs-web-home .build-a-good-web-30-1 {
+  color: var(--woodsmoke);
+  font-family: var(--font-family-poppins);
+  font-size: 34px;
+  font-weight: 800;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 174px;
+  width: 406px;
+}
+
+.gglabs-web-home .text-1-1 {
+  color: var(--mercury);
+  font-family: var(--font-family-poppins);
+  font-size: 100px;
+  font-weight: 900;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: 110px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.gglabs-web-home .group-container-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 24px;
+  min-height: 741px;
+  width: 690px;
+}
+
+.gglabs-web-home .overlap-group1-2 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-93@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 383px;
+  padding: 40px 0;
+  width: 690px;
+}
+
+.gglabs-web-home .overlap-group-8 {
+  border-radius: 53px;
+  height: 54px;
+  margin-left: 40px;
+  position: relative;
+  width: 167px;
+}
+
+.gglabs-web-home .place-1 {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-weight: 800;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.gglabs-web-home .rectangle-75-1 {
+  border-radius: 53px;
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 167px;
+}
+
+.gglabs-web-home .make-the-world-fun-a-1 {
+  align-self: center;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 51px;
+  margin-top: 24px;
+  min-height: 204px;
+  width: 610px;
+}
+
+.gglabs-web-home .group-149-2 {
+  height: 334px;
+  margin-top: 24px;
+  width: 690px;
+}
+
+.gglabs-web-home .group-169 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 360px;
+  min-height: 1325px;
+  position: absolute;
+  top: 4235px;
+  width: 1204px;
+}
+
+.gglabs-web-home .the-team-1 {
+  letter-spacing: -1.80px;
+  line-height: 130px;
+  min-height: 130px;
+  white-space: nowrap;
+}
+
+.gglabs-web-home .good-gang-labs-is-mad-1 {
+  letter-spacing: 0;
+  line-height: 44px;
+  margin-top: 22px;
+  min-height: 176px;
+  width: 1200px;
+}
+
+.gglabs-web-home .group-168 {
+  align-items: flex-start;
+  display: flex;
+  height: 947px;
+  margin-top: 50px;
+  min-width: 1200px;
+}
+
+.gglabs-web-home .uigglabsteam_web-container {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 884px;
+  width: 384px;
+}
+
+.gglabs-web-home .uig-glabsteam_web {
+  align-items: flex-end;
+  display: flex;
+  height: 206px;
+  min-width: 384px;
+}
+
+.gglabs-web-home .overlap-group-5 {
+  height: 207px;
+  margin-bottom: -1px;
+  position: relative;
+  width: 384px;
+}
+
+.gglabs-web-home .frame-3-2 {
+  align-items: flex-start;
+  background-color: var(--woodsmoke);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 184px;
+  padding: 32px 0;
+  position: absolute;
+  top: 23px;
+  width: 384px;
+}
+
+.gglabs-web-home .my-hot-burger-owner-1 {
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-left: 26px;
+  margin-top: 8px;
+  min-height: 28px;
+  white-space: nowrap;
+}
+
+.gglabs-web-home .frame-1-2 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 18px;
+  min-height: 66px;
+  width: 332px;
+}
+
+.gglabs-web-home .name-1 {
+  letter-spacing: 0;
+  line-height: 36px;
+  min-height: 36px;
+  white-space: nowrap;
+}
+
+.gglabs-web-home .desire-to-make-the-h-2 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 6px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.gglabs-web-home .text-1 {
+  left: 26px;
+  letter-spacing: 0;
+  line-height: 54px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.gglabs-web-home .uig-glabsteam_web-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 206px;
+  margin-top: 20px;
+  min-width: 384px;
+}
+
+.gglabs-web-home .patty-boop-10 {
+  letter-spacing: 0;
+  line-height: 36px;
+  min-height: 36px;
+  white-space: nowrap;
+}
+
+.gglabs-web-home .patty-boop-11 {
+  letter-spacing: 0;
+  line-height: 36px;
+  min-height: 36px;
+  white-space: nowrap;
+}
+
+.gglabs-web-home .patty-boop-12 {
+  letter-spacing: 0;
+  line-height: 36px;
+  min-height: 36px;
+  white-space: nowrap;
+}
+
+.gglabs-web-home .uigglabsteam_web-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 24px;
+  min-height: 884px;
+  width: 384px;
+}
+
+.gglabs-web-home .patty-boop-13 {
+  letter-spacing: 0;
+  line-height: 36px;
+  min-height: 36px;
+  white-space: nowrap;
+}
+
+.gglabs-web-home .text-2 {
+  left: 26px;
+  letter-spacing: 0;
+  line-height: 46px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.gglabs-web-home .patty-boop-14 {
+  letter-spacing: 0;
+  line-height: 36px;
+  min-height: 36px;
+  white-space: nowrap;
+}
+
+.gglabs-web-home .patty-boop-15 {
+  letter-spacing: 0;
+  line-height: 36px;
+  min-height: 36px;
+  white-space: nowrap;
+}
+
+.gglabs-web-home .patty-boop-16 {
+  letter-spacing: 0;
+  line-height: 36px;
+  min-height: 36px;
+  white-space: nowrap;
+}
+
+.gglabs-web-home .uigglabsteam_web-container-2 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 89.0px;
+  margin-left: 24px;
+  min-height: 732px;
+  width: 384px;
+}
+
+.gglabs-web-home .uig-glabsteam_web-2 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 384px;
+}
+
+.gglabs-web-home .overlap-group5 {
+  height: 255px;
+  position: relative;
+  width: 384px;
+}
+
+.gglabs-web-home .frame-3-3 {
+  align-items: flex-start;
+  background-color: var(--woodsmoke);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 232px;
+  padding: 32px 0;
+  position: absolute;
+  top: 23px;
+  width: 384px;
+}
+
+.gglabs-web-home .frame-1-3 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 18px;
+  min-height: 114px;
+  width: 332px;
+}
+
+.gglabs-web-home .patty-boop-17 {
+  letter-spacing: 0;
+  line-height: 36px;
+  min-height: 36px;
+  white-space: nowrap;
+}
+
+.gglabs-web-home .desire-to-make-the-h-3 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 6px;
+  min-height: 72px;
+  width: 332px;
+}
+
+.gglabs-web-home .uig-glabsteam_web-3 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 20px;
+  min-width: 384px;
+}
+
+.gglabs-web-home .overlap-group8 {
+  height: 231px;
+  position: relative;
+  width: 384px;
+}
+
+.gglabs-web-home .frame-3-4 {
+  align-items: flex-start;
+  background-color: var(--woodsmoke);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 208px;
+  padding: 32px 0;
+  position: absolute;
+  top: 23px;
+  width: 384px;
+}
+
+.gglabs-web-home .frame-1-4 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 18px;
+  min-height: 90px;
+  width: 332px;
+}
+
+.gglabs-web-home .patty-boop-18 {
+  letter-spacing: 0;
+  line-height: 36px;
+  min-height: 36px;
+  white-space: nowrap;
+}
+
+.gglabs-web-home .desire-to-make-the-h-4 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 6px;
+  min-height: 48px;
+  width: 332px;
+}
+
+.gglabs-web-home .patty-boop-19 {
+  letter-spacing: 0;
+  line-height: 36px;
+  min-height: 36px;
+  white-space: nowrap;
+}
+
+.gglabs-web-home .group-149-3 {
+  align-items: flex-start;
+  border: 4px solid var(--white);
+  border-radius: 115px;
+  display: flex;
+  height: 230px;
+  left: 1318px;
+  min-width: 230px;
+  opacity: 0.1;
+  padding: 13.0px 13.0px;
+  position: absolute;
+  top: 5765px;
+}
+
+.gglabs-web-home .overlap-group11-1 {
+  height: 204px;
+  position: relative;
+  width: 204px;
+}
+
+.gglabs-web-home .ellipse-12-1 {
+  border-radius: 81px;
+  height: 162px;
+  left: 21px;
+  position: absolute;
+  top: 21px;
+  width: 162px;
+}
+
+.gglabs-web-home .group-1 {
+  height: 204px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 204px;
+}
+
+.gglabs-web-home .logog-glabssymbol-1 {
+  height: 74px;
+  left: 47px;
+  position: absolute;
+  top: 65px;
+  width: 110px;
+}
+
+.gglabs-web-home .overlap-group12 {
+  align-items: flex-start;
+  background-color: var(--purple-heart);
+  background-image: url(../img/group-195@1x.svg);
+  background-size: 100% 100%;
+  border-radius: 16px;
+  display: flex;
+  height: 156px;
+  justify-content: flex-end;
+  left: 869px;
+  min-width: 690px;
+  padding: 27px 51px;
+  position: absolute;
+  top: 6560px;
+}
+
+.gglabs-web-home .were-hiring {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 47px;
+  font-style: italic;
+  font-weight: 800;
+  letter-spacing: -0.94px;
+  line-height: 100px;
+  min-height: 100px;
+  min-width: 311px;
+  white-space: nowrap;
+}
+
+.gglabs-web-home .img_arrow-2 {
+  align-self: center;
+  height: 42px;
+  margin-bottom: 2.0px;
+  margin-left: 92px;
+  width: 76px;
+}
+@media screen and (max-width: 1919px) {
+  .screen.gglabs-web-home { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.gglabs-mobile-home { 
+    display: none;
+   }
+}
