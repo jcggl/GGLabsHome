@@ -2,7 +2,7 @@
 
 .gglabs-mobile-home {
   align-items: flex-start;
-  background-color: var(--white);
+  background-color: var(--black);
   display: flex;
   height: 7238px;
   overflow: hidden;
@@ -839,7 +839,7 @@
 
 .gglabs-pad-home {
   align-items: flex-start;
-  background-color: var(--white);
+  background-color: var(--black);
   display: flex;
   flex-direction: column;
   height: 6777px;
@@ -1772,7 +1772,7 @@
 
 .gglabs-web-home {
   align-items: flex-start;
-  background-color: var(--white);
+  background-color: var(--black);
   display: flex;
   overflow: hidden;
   width: 1920px;
