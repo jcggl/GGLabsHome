@@ -1,9 +1,9 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
 
-@import url("https://fonts.googleapis.com/css?family=Poppins:400,600|Anton:400");
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,700,900,300,800,800italic,300italic");
 
 /* The following line is used to measure usage of this code in production. For more info see our usage billing page */
-@import url("https://px.animaapp.com/61f9fc10c573794bb399fc9d.61f9fc125ced7d4f9ddff61a.34jb3NZ.hcp.png");
+@import url("https://px.animaapp.com/61f9fc10c573794bb399fc9d.61f9fc125ced7d4f9ddff61a.dHflvty.hcp.png");
 
 .screen a {
   display: contents;
