@@ -2,9 +2,9 @@
 
 .gglabs-mobile-home {
   align-items: flex-start;
-  background-color: var(--black);
+  background-color: var(--white);
   display: flex;
-  height: 7238px;
+  height: 7316px;
   overflow: hidden;
   width: 360px;
 }
@@ -109,7 +109,7 @@
 
 .gglabs-mobile-home .overlap-group1 {
   align-items: flex-start;
-  background-image: url(../img/rectangle-93-2@2x.svg);
+  background-image: url(../img/rectangle-93-1@2x.svg);
   background-size: 100% 100%;
   display: flex;
   flex-direction: column;
@@ -189,7 +189,7 @@
   width: 288px;
 }
 
-.gglabs-mobile-home .text-29 {
+.gglabs-mobile-home .text-15 {
   color: var(--mercury);
   font-family: var(--font-family-poppins);
   font-size: 60px;
@@ -365,7 +365,7 @@
   line-height: 44px;
   position: absolute;
   text-shadow: -12px 0px 9px #5530301f;
-  top: 6554px;
+  top: 6632px;
 }
 
 .gglabs-mobile-home .group-149-1 {
@@ -378,7 +378,7 @@
   opacity: 0.1;
   padding: 7.0px 7.0px;
   position: absolute;
-  top: 6497px;
+  top: 6564px;
 }
 
 .gglabs-mobile-home .overlap-group3 {
@@ -417,7 +417,7 @@
   letter-spacing: 0;
   line-height: 26px;
   position: absolute;
-  top: 6716px;
+  top: 6794px;
   width: 320px;
 }
 
@@ -434,7 +434,7 @@
   letter-spacing: 0;
   line-height: 26px;
   position: absolute;
-  top: 6852px;
+  top: 6930px;
   width: 320px;
 }
 
@@ -448,12 +448,25 @@
   min-width: 56px;
   padding: 0 16px;
   position: absolute;
-  top: 6918px;
+  top: 6996px;
 }
 
 .gglabs-mobile-home .iconsns {
   height: 24px;
   width: 24px;
+}
+
+.gglabs-mobile-home .group-219 {
+  align-items: center;
+  background-color: var(--razzmatazz);
+  border-radius: 2px;
+  display: flex;
+  height: 44px;
+  left: 156px;
+  min-width: 56px;
+  padding: 0 16px;
+  position: absolute;
+  top: 6996px;
 }
 
 .gglabs-mobile-home .group-35 {
@@ -466,7 +479,7 @@
   min-width: 56px;
   padding: 0 16px;
   position: absolute;
-  top: 6918px;
+  top: 6996px;
 }
 
 .gglabs-mobile-home .contact-us {
@@ -474,7 +487,7 @@
   letter-spacing: 0;
   line-height: 24px;
   position: absolute;
-  top: 6682px;
+  top: 6760px;
   white-space: nowrap;
 }
 
@@ -483,7 +496,7 @@
   letter-spacing: 0;
   line-height: 24px;
   position: absolute;
-  top: 6818px;
+  top: 6896px;
   white-space: nowrap;
   width: 327px;
 }
@@ -493,7 +506,7 @@
   display: flex;
   flex-direction: column;
   left: 18px;
-  min-height: 2450px;
+  min-height: 2528px;
   position: absolute;
   top: 3984px;
   width: 324px;
@@ -507,11 +520,11 @@
   white-space: nowrap;
 }
 
-.gglabs-mobile-home .good-gang-labs-is-mad {
+.gglabs-mobile-home .born-amid-pandemic {
   letter-spacing: 0;
   line-height: 26px;
   margin-top: 20px;
-  min-height: 208px;
+  min-height: 286px;
   width: 320px;
 }
 
@@ -803,7 +816,7 @@
   min-height: 126px;
   padding: 23px 16px;
   position: absolute;
-  top: 7112px;
+  top: 7190px;
   width: 360px;
 }
 
@@ -839,10 +852,10 @@
 
 .gglabs-pad-home {
   align-items: flex-start;
-  background-color: var(--black);
+  background-color: var(--white);
   display: flex;
   flex-direction: column;
-  height: 6777px;
+  height: 6823px;
   overflow: hidden;
   width: 768px;
 }
@@ -981,7 +994,7 @@
   width: 288px;
 }
 
-.gglabs-pad-home .text-1-1 {
+.gglabs-pad-home .text-29 {
   color: var(--mercury);
   font-family: var(--font-family-poppins);
   font-size: 70px;
@@ -1005,7 +1018,7 @@
 
 .gglabs-pad-home .overlap-group1-1 {
   align-items: flex-start;
-  background-image: url(../img/rectangle-93@2x.svg);
+  background-image: url(../img/rectangle-93-2@2x.svg);
   background-size: 100% 100%;
   display: flex;
   flex-direction: column;
@@ -1240,12 +1253,12 @@
   width: 324px;
 }
 
-.gglabs-pad-home .group-219 {
+.gglabs-pad-home .group-219-1 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
   left: 50px;
-  min-height: 1977px;
+  min-height: 2023px;
   position: absolute;
   top: 2738px;
   width: 672px;
@@ -1258,11 +1271,11 @@
   white-space: nowrap;
 }
 
-.gglabs-pad-home .good-gang-labs-is-mad-1 {
+.gglabs-pad-home .born-amid-pandemic-1 {
   letter-spacing: 0;
   line-height: 30px;
-  margin-top: 30px;
-  min-height: 120px;
+  margin-top: 16px;
+  min-height: 180px;
   width: 668px;
 }
 
@@ -1467,7 +1480,7 @@
   white-space: nowrap;
 }
 
-.gglabs-pad-home .text-2 {
+.gglabs-pad-home .text-3 {
   left: 26px;
   letter-spacing: 0;
   line-height: 46px;
@@ -1597,7 +1610,7 @@
   opacity: 0.1;
   padding: 13.0px 12.5px;
   position: absolute;
-  top: 4879px;
+  top: 4925px;
 }
 
 .gglabs-pad-home .overlap-group13-1 {
@@ -1638,7 +1651,7 @@
   left: 50px;
   min-height: 536px;
   position: absolute;
-  top: 4835px;
+  top: 4881px;
   width: 674px;
 }
 
@@ -1700,7 +1713,7 @@
   align-items: flex-start;
   display: flex;
   margin-top: 8px;
-  min-width: 168px;
+  min-width: 258px;
 }
 
 .gglabs-pad-home .group-35-1 {
@@ -1729,6 +1742,17 @@
   padding: 0 19px;
 }
 
+.gglabs-pad-home .group-36 {
+  align-items: center;
+  background-color: var(--razzmatazz);
+  border-radius: 2px;
+  display: flex;
+  height: 68px;
+  margin-left: 12px;
+  min-width: 78px;
+  padding: 0 19px;
+}
+
 .gglabs-pad-home .group-135-1 {
   align-items: flex-start;
   display: flex;
@@ -1737,7 +1761,7 @@
   min-height: 126px;
   padding: 19px 50px;
   position: absolute;
-  top: 5571px;
+  top: 5617px;
   width: 768px;
 }
 
@@ -1772,7 +1796,7 @@
 
 .gglabs-web-home {
   align-items: flex-start;
-  background-color: var(--black);
+  background-color: var(--white);
   display: flex;
   overflow: hidden;
   width: 1920px;
@@ -1847,7 +1871,7 @@
   letter-spacing: -1.80px;
   line-height: 100px;
   position: absolute;
-  top: 7166px;
+  top: 7210px;
 }
 
 .gglabs-web-home .want-to-join-our-ete-2 {
@@ -1855,7 +1879,7 @@
   letter-spacing: 0;
   line-height: 44px;
   position: absolute;
-  top: 7510px;
+  top: 7554px;
   width: 690px;
 }
 
@@ -2080,7 +2104,7 @@
   letter-spacing: 0;
   line-height: 36px;
   position: absolute;
-  top: 7458px;
+  top: 7502px;
   white-space: nowrap;
   width: 327px;
 }
@@ -2092,7 +2116,7 @@
   left: 870px;
   min-height: 226px;
   position: absolute;
-  top: 7694px;
+  top: 7738px;
   width: 701px;
 }
 
@@ -2115,7 +2139,7 @@
   align-items: flex-start;
   display: flex;
   margin-top: 18px;
-  min-width: 168px;
+  min-width: 258px;
 }
 
 .gglabs-web-home .group-35-2 {
@@ -2136,6 +2160,17 @@
 .gglabs-web-home .group-34-2 {
   align-items: center;
   background-color: var(--royal-blue);
+  border-radius: 2px;
+  display: flex;
+  height: 68px;
+  margin-left: 12px;
+  min-width: 78px;
+  padding: 0 19px;
+}
+
+.gglabs-web-home .group-36-1 {
+  align-items: center;
+  background-color: var(--razzmatazz);
   border-radius: 2px;
   display: flex;
   height: 68px;
@@ -2257,7 +2292,7 @@
   width: 406px;
 }
 
-.gglabs-web-home .text-15 {
+.gglabs-web-home .text-1-1 {
   color: var(--mercury);
   font-family: var(--font-family-poppins);
   font-size: 100px;
@@ -2282,7 +2317,7 @@
 
 .gglabs-web-home .overlap-group1-2 {
   align-items: flex-start;
-  background-image: url(../img/rectangle-93-1@1x.svg);
+  background-image: url(../img/rectangle-93@1x.svg);
   background-size: 100% 100%;
   display: flex;
   flex-direction: column;
@@ -2345,7 +2380,7 @@
   display: flex;
   flex-direction: column;
   left: 360px;
-  min-height: 1566px;
+  min-height: 1610px;
   position: absolute;
   top: 5350px;
   width: 1204px;
@@ -2358,11 +2393,11 @@
   white-space: nowrap;
 }
 
-.gglabs-web-home .good-gang-labs-is-mad-2 {
+.gglabs-web-home .born-amid-pandemic-2 {
   letter-spacing: 0;
   line-height: 44px;
   margin-top: 22px;
-  min-height: 176px;
+  min-height: 220px;
   width: 1200px;
 }
 
@@ -2455,7 +2490,7 @@
   width: 32px;
 }
 
-.gglabs-web-home .text-3 {
+.gglabs-web-home .text-2 {
   left: 26px;
   letter-spacing: 0;
   line-height: 54px;
@@ -2707,7 +2742,7 @@
   opacity: 0.1;
   padding: 13.0px 13.0px;
   position: absolute;
-  top: 7458px;
+  top: 7502px;
 }
 
 .gglabs-web-home .overlap-group13-2 {
@@ -2741,10 +2776,10 @@
   width: 110px;
 }
 @media screen and (max-width: 767px) {
-  .screen.gglabs-pad-home { 
+  .screen.gglabs-web-home { 
     display: none;
    }
-  .screen.gglabs-web-home { 
+  .screen.gglabs-pad-home { 
     display: none;
    }
 }
@@ -2757,10 +2792,10 @@
    }
 }
 @media screen and (min-width: 1920px) {
-  .screen.gglabs-pad-home { 
+  .screen.gglabs-mobile-home { 
     display: none;
    }
-  .screen.gglabs-mobile-home { 
+  .screen.gglabs-pad-home { 
     display: none;
    }
 }

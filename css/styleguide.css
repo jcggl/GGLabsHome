@@ -3,6 +3,7 @@
   --blue-jeans: #4fa5f1;
   --mercury: #e4e4e7;
   --purple-heart: #6038ff;
+  --razzmatazz: #e2296f;
   --royal-blue: #5b68ea;
   --santas-gray: #a1a1aa;
   --screamin-green: #84fb72;
@@ -140,14 +141,6 @@
   font-weight: 700;
 }
 
-.poppins-extra-bold-white-60px {
-  color: var(--white);
-  font-family: var(--font-family-poppins);
-  font-size: 60px;
-  font-style: italic;
-  font-weight: 800;
-}
-
 .poppins-extra-bold-white-90px {
   color: var(--white);
   font-family: var(--font-family-poppins);
@@ -176,6 +169,14 @@
   color: var(--white);
   font-family: var(--font-family-poppins);
   font-size: 36px;
+  font-style: italic;
+  font-weight: 800;
+}
+
+.poppins-extra-bold-white-60px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 60px;
   font-style: italic;
   font-weight: 800;
 }
