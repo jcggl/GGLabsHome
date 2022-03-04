@@ -45,6 +45,14 @@
   font-weight: 300;
 }
 
+.poppins-normal-sonic-silver-12px {
+  color: var(--sonic-silver);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
 .poppins-normal-white-42px {
   color: var(--white);
   font-family: var(--font-family-poppins);
@@ -67,14 +75,6 @@
   font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 700;
-}
-
-.poppins-normal-sonic-silver-12px {
-  color: var(--sonic-silver);
-  font-family: var(--font-family-poppins);
-  font-size: var(--font-size-s);
-  font-style: normal;
-  font-weight: 400;
 }
 
 .poppins-normal-white-40px {
@@ -109,20 +109,20 @@
   font-weight: 300;
 }
 
-.poppins-bold-screamin-green-12px {
-  color: var(--screamin-green);
-  font-family: var(--font-family-poppins);
-  font-size: var(--font-size-s);
-  font-style: normal;
-  font-weight: 700;
-}
-
 .poppins-light-santas-gray-24px {
   color: var(--santas-gray);
   font-family: var(--font-family-poppins);
   font-size: var(--font-size-xxxl);
   font-style: normal;
   font-weight: 300;
+}
+
+.poppins-bold-screamin-green-12px {
+  color: var(--screamin-green);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
 }
 
 .poppins-bold-purple-heart-12px {
@@ -141,10 +141,26 @@
   font-weight: 700;
 }
 
+.poppins-extra-bold-white-60px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 60px;
+  font-style: italic;
+  font-weight: 800;
+}
+
 .poppins-extra-bold-white-90px {
   color: var(--white);
   font-family: var(--font-family-poppins);
   font-size: 90px;
+  font-style: italic;
+  font-weight: 800;
+}
+
+.poppins-extra-bold-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 36px;
   font-style: italic;
   font-weight: 800;
 }
@@ -165,20 +181,12 @@
   font-weight: 300;
 }
 
-.poppins-extra-bold-white-60px {
-  color: var(--white);
+.poppins-normal-sonic-silver-10px {
+  color: var(--sonic-silver);
   font-family: var(--font-family-poppins);
-  font-size: 60px;
-  font-style: italic;
-  font-weight: 800;
-}
-
-.poppins-extra-bold-white-36px {
-  color: var(--white);
-  font-family: var(--font-family-poppins);
-  font-size: 36px;
-  font-style: italic;
-  font-weight: 800;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
 }
 
 .border-1px-screamin-green {
