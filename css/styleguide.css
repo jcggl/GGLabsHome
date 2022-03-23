@@ -4,7 +4,6 @@
   --mercury: #e4e4e7;
   --purple-heart: #6038ff;
   --razzmatazz: #e2296f;
-  --royal-blue: #5b68ea;
   --santas-gray: #a1a1aa;
   --screamin-green: #84fb72;
   --sonic-silver: #71717a;
@@ -53,6 +52,14 @@
   font-weight: 400;
 }
 
+.poppins-bold-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
 .poppins-normal-white-42px {
   color: var(--white);
   font-family: var(--font-family-poppins);
@@ -61,8 +68,8 @@
   font-weight: 400;
 }
 
-.poppins-bold-white-16px {
-  color: var(--white);
+.poppins-bold-purple-heart-16px {
+  color: var(--purple-heart);
   font-family: var(--font-family-poppins);
   font-size: var(--font-size-l);
   font-style: normal;
@@ -85,14 +92,6 @@
   font-weight: 400;
 }
 
-.poppins-bold-purple-heart-16px {
-  color: var(--purple-heart);
-  font-family: var(--font-family-poppins);
-  font-size: var(--font-size-l);
-  font-style: normal;
-  font-weight: 700;
-}
-
 .poppins-normal-white-48px {
   color: var(--white);
   font-family: var(--font-family-poppins);
@@ -109,12 +108,12 @@
   font-weight: 300;
 }
 
-.poppins-light-santas-gray-24px {
-  color: var(--santas-gray);
+.poppins-bold-purple-heart-12px {
+  color: var(--purple-heart);
   font-family: var(--font-family-poppins);
-  font-size: var(--font-size-xxxl);
+  font-size: var(--font-size-s);
   font-style: normal;
-  font-weight: 300;
+  font-weight: 700;
 }
 
 .poppins-bold-screamin-green-12px {
@@ -125,12 +124,12 @@
   font-weight: 700;
 }
 
-.poppins-bold-purple-heart-12px {
-  color: var(--purple-heart);
+.poppins-light-santas-gray-24px {
+  color: var(--santas-gray);
   font-family: var(--font-family-poppins);
-  font-size: var(--font-size-s);
+  font-size: var(--font-size-xxxl);
   font-style: normal;
-  font-weight: 700;
+  font-weight: 300;
 }
 
 .poppins-bold-white-24px {
@@ -149,6 +148,14 @@
   font-weight: 800;
 }
 
+.poppins-extra-bold-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 800;
+}
+
 .poppins-extra-bold-white-90px {
   color: var(--white);
   font-family: var(--font-family-poppins);
@@ -157,12 +164,12 @@
   font-weight: 800;
 }
 
-.poppins-extra-bold-white-36px {
-  color: var(--white);
+.poppins-normal-sonic-silver-10px {
+  color: var(--sonic-silver);
   font-family: var(--font-family-poppins);
-  font-size: 36px;
-  font-style: italic;
-  font-weight: 800;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
 }
 
 .poppins-bold-white-38px {
@@ -181,20 +188,12 @@
   font-weight: 300;
 }
 
-.poppins-normal-sonic-silver-10px {
-  color: var(--sonic-silver);
-  font-family: var(--font-family-poppins);
-  font-size: 10px;
-  font-style: normal;
-  font-weight: 400;
+.border-1px-purple-heart {
+  border: 1px solid var(--purple-heart);
 }
 
 .border-1px-screamin-green {
   border: 1px solid var(--screamin-green);
-}
-
-.border-1px-purple-heart {
-  border: 1px solid var(--purple-heart);
 }
 
 .border-1px-santas-gray {

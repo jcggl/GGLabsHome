@@ -2,7 +2,7 @@
 
 .gglabs-mobile-home {
   background-color: var(--white);
-  height: 7910px;
+  height: 8092px;
   mix-blend-mode: normal;
   overflow: hidden;
   overflow-x: hidden;
@@ -188,7 +188,7 @@
   font-style: normal;
   font-weight: 800;
   height: auto;
-  left: 14px;
+  left: 27px;
   letter-spacing: 0.00px;
   line-height: 26px;
   mix-blend-mode: normal;
@@ -397,7 +397,7 @@
 .gglabs-mobile-home .coming-soon-kk6ZRl {
   background-color: transparent;
   height: auto;
-  left: 10px;
+  left: 18px;
   letter-spacing: -0.28px;
   line-height: 20px;
   mix-blend-mode: normal;
@@ -486,7 +486,7 @@
 .gglabs-mobile-home .coming-soon-nCTz2i {
   background-color: transparent;
   height: auto;
-  left: 10px;
+  left: 18px;
   letter-spacing: -0.28px;
   line-height: 20px;
   mix-blend-mode: normal;
@@ -575,7 +575,7 @@
 .gglabs-mobile-home .coming-soon-S63Yf5 {
   background-color: transparent;
   height: auto;
-  left: 10px;
+  left: 18px;
   letter-spacing: -0.28px;
   line-height: 20px;
   mix-blend-mode: normal;
@@ -606,7 +606,7 @@
   position: absolute;
   text-align: left;
   text-shadow: -12px 0px 9px #5530301f;
-  top: 7254px;
+  top: 7436px;
   width: auto;
 }
 
@@ -616,7 +616,7 @@
   left: 256px;
   opacity: 0.1;
   position: absolute;
-  top: 7274px;
+  top: 7456px;
   width: 136px;
 }
 
@@ -642,11 +642,11 @@
 
 .gglabs-mobile-home .group-9PbM2E {
   background-color: transparent;
-  height: 122px;
-  left: 7px;
+  height: 121px;
+  left: 19px;
   position: absolute;
   top: 7px;
-  width: 122px;
+  width: 96px;
 }
 
 .gglabs-mobile-home .logog-glabssymbol-9PbM2E {
@@ -656,7 +656,7 @@
   mix-blend-mode: normal;
   position: absolute;
   top: 46px;
-  width: 66px;
+  width: 65px;
 }
 
 .gglabs-mobile-home .want-to-join-our-ete-SiqZAB {
@@ -668,7 +668,7 @@
   mix-blend-mode: normal;
   position: absolute;
   text-align: left;
-  top: 7416px;
+  top: 7598px;
   width: 320px;
 }
 
@@ -693,45 +693,16 @@
   mix-blend-mode: normal;
   position: absolute;
   text-align: left;
-  top: 7552px;
+  top: 7734px;
   width: 320px;
-}
-
-.gglabs-mobile-home .group-34-SiqZAB {
-  background-color: transparent;
-  height: 44px;
-  left: 88px;
-  position: absolute;
-  top: 7618px;
-  width: 56px;
-}
-
-.gglabs-mobile-home .rectangle-40-mdN0zB {
-  background-color: var(--royal-blue);
-  border-radius: 2px;
-  height: 44px;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 56px;
-}
-
-.gglabs-mobile-home .iconsns-discord-mdN0zB {
-  background-color: transparent;
-  height: 24px;
-  left: 16px;
-  position: absolute;
-  top: 10px;
-  width: 24px;
 }
 
 .gglabs-mobile-home .group-219-SiqZAB {
   background-color: transparent;
   height: 44px;
-  left: 156px;
+  left: 88px;
   position: absolute;
-  top: 7618px;
+  top: 7800px;
   width: 56px;
 }
 
@@ -761,7 +732,7 @@
   height: 44px;
   left: 20px;
   position: absolute;
-  top: 7618px;
+  top: 7800px;
   width: 56px;
 }
 
@@ -794,7 +765,7 @@
   mix-blend-mode: normal;
   position: absolute;
   text-align: left;
-  top: 7382px;
+  top: 7564px;
   white-space: nowrap;
   width: auto;
 }
@@ -808,14 +779,14 @@
   mix-blend-mode: normal;
   position: absolute;
   text-align: left;
-  top: 7518px;
+  top: 7700px;
   white-space: nowrap;
   width: 327px;
 }
 
 .gglabs-mobile-home .group-179-SiqZAB {
   background-color: transparent;
-  height: 2556px;
+  height: 2738px;
   left: 18px;
   position: absolute;
   top: 3984px;
@@ -959,6 +930,128 @@
 }
 
 .gglabs-mobile-home .text_label-pJqd4x {
+  background-color: transparent;
+  height: auto;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gglabs-mobile-home .group-305-8hPu7x {
+  background-color: transparent;
+  height: 170px;
+  left: 0px;
+  position: absolute;
+  top: 2414px;
+  width: 322px;
+}
+
+.gglabs-mobile-home .frame-3-QKXjhG {
+  background-color: var(--woodsmoke);
+  border-radius: 4px;
+  height: 148px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 22px;
+  width: 320px;
+}
+
+.gglabs-mobile-home .frame-2-0YqRf5 {
+  background-color: transparent;
+  height: 96px;
+  left: 16px;
+  position: relative;
+  top: 32px;
+  width: 288px;
+}
+
+.gglabs-mobile-home .community-music-oxT9NJ {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 130px;
+}
+
+.gglabs-mobile-home .frame-1-oxT9NJ {
+  background-color: transparent;
+  height: 72px;
+  left: 0px;
+  position: absolute;
+  top: 24px;
+  width: 288px;
+}
+
+.gglabs-mobile-home .ycyhw-qF1lXA {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 288px;
+}
+
+.gglabs-mobile-home .musician-by-day-an-nft-trader-by-night-qF1lXA {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 28px;
+  white-space: nowrap;
+  width: 288px;
+}
+
+.gglabs-mobile-home .group-291-qF1lXA {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 48px;
+  width: 56px;
+}
+
+.gglabs-mobile-home .iconsns-instagram-8BWNZN {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.gglabs-mobile-home .iconsns-twitter-8BWNZN {
+  background-color: transparent;
+  height: 24px;
+  left: 32px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.gglabs-mobile-home .text_label-QKXjhG {
   background-color: transparent;
   height: auto;
   left: 16px;
@@ -1234,7 +1327,7 @@
   width: 288px;
 }
 
-.gglabs-mobile-home .desire-to-make-the-h-T2AhWX {
+.gglabs-mobile-home .become-a-minimalist-in-my-next-life-T2AhWX {
   background-color: transparent;
   height: auto;
   left: 0px;
@@ -2072,7 +2165,7 @@
   height: 142px;
   left: 0px;
   position: absolute;
-  top: 2414px;
+  top: 2596px;
   width: 320px;
 }
 
@@ -2166,7 +2259,7 @@
   height: 126px;
   left: 0px;
   position: absolute;
-  top: 7784px;
+  top: 7966px;
   width: 360px;
 }
 
@@ -2218,7 +2311,7 @@
 
 .gglabs-mobile-home .union-R1jxhV {
   background-color: transparent;
-  height: 27px;
+  height: 26px;
   left: -0px;
   mix-blend-mode: normal;
   position: absolute;
@@ -2226,7 +2319,7 @@
   width: 56px;
 }
 
-.gglabs-mobile-home .x2021-good-gang-labs-7ypIgb {
+.gglabs-mobile-home .x2022-good-gang-labs-pte-ltd-7ypIgb {
   background-color: transparent;
   color: var(--santas-gray);
   font-family: var(--font-family-poppins);
@@ -2249,7 +2342,7 @@
   height: 474px;
   left: 18px;
   position: absolute;
-  top: 6660px;
+  top: 6842px;
   width: 326px;
 }
 
@@ -2413,7 +2506,7 @@
 
 .gglabs-pad-home {
   background-color: var(--white);
-  height: 7395px;
+  height: 7530px;
   mix-blend-mode: normal;
   overflow: hidden;
   overflow-x: hidden;
@@ -2683,7 +2776,7 @@
   font-style: normal;
   font-weight: 800;
   height: auto;
-  left: 19px;
+  left: 39px;
   letter-spacing: 0.00px;
   line-height: 34px;
   mix-blend-mode: normal;
@@ -2821,7 +2914,7 @@
 .gglabs-pad-home .coming-soon-de5TNe {
   background-color: transparent;
   height: auto;
-  left: 10px;
+  left: 18px;
   letter-spacing: -0.28px;
   line-height: 20px;
   mix-blend-mode: normal;
@@ -2910,7 +3003,7 @@
 .gglabs-pad-home .coming-soon-xQyHco {
   background-color: transparent;
   height: auto;
-  left: 10px;
+  left: 18px;
   letter-spacing: -0.28px;
   line-height: 20px;
   mix-blend-mode: normal;
@@ -2999,7 +3092,7 @@
 .gglabs-pad-home .coming-soon-kIAClp {
   background-color: transparent;
   height: auto;
-  left: 10px;
+  left: 18px;
   letter-spacing: -0.28px;
   line-height: 20px;
   mix-blend-mode: normal;
@@ -3027,7 +3120,7 @@
 
 .gglabs-pad-home .group-219-xDy5O1 {
   background-color: transparent;
-  height: 2023px;
+  height: 2158px;
   left: 50px;
   position: absolute;
   top: 3818px;
@@ -3063,7 +3156,7 @@
 
 .gglabs-pad-home .group-169-jUiihI {
   background-color: transparent;
-  height: 1707px;
+  height: 1842px;
   left: 0px;
   position: absolute;
   top: 316px;
@@ -3072,7 +3165,7 @@
 
 .gglabs-pad-home .group-168-lwq5AO {
   background-color: transparent;
-  height: 1707px;
+  height: 1842px;
   left: 0px;
   position: relative;
   top: 0px;
@@ -3196,6 +3289,136 @@
 }
 
 .gglabs-pad-home .text_label-aToFw1 {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: 54px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gglabs-pad-home .group-300-cyn1M4 {
+  background-color: transparent;
+  height: 269px;
+  left: 0px;
+  position: absolute;
+  top: 1573px;
+  width: 326px;
+}
+
+.gglabs-pad-home .group-167-0x51IV {
+  background-color: transparent;
+  height: 246px;
+  left: 0px;
+  position: absolute;
+  top: 23px;
+  width: 324px;
+}
+
+.gglabs-pad-home .frame-3-lsn4Km {
+  background-color: var(--woodsmoke);
+  border-radius: 4px;
+  height: 246px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 324px;
+}
+
+.gglabs-pad-home .frame-2-bdsc9Y {
+  background-color: transparent;
+  height: 174px;
+  left: 26px;
+  position: relative;
+  top: 40px;
+  width: 272px;
+}
+
+.gglabs-pad-home .community-music-aTStma {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 172px;
+}
+
+.gglabs-pad-home .frame-1-aTStma {
+  background-color: transparent;
+  height: 128px;
+  left: 0px;
+  position: absolute;
+  top: 46px;
+  width: 272px;
+}
+
+.gglabs-pad-home .ycyhw-w3IPTi {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 272px;
+}
+
+.gglabs-pad-home .musician-by-day-an-nft-trader-by-night-w3IPTi {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  width: 272px;
+}
+
+.gglabs-pad-home .group-291-w3IPTi {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  top: 96px;
+  width: 70px;
+}
+
+.gglabs-pad-home .iconsns-instagram-Pj3W5B {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.gglabs-pad-home .iconsns-twitter-Pj3W5B {
+  background-color: transparent;
+  height: 32px;
+  left: 38px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.gglabs-pad-home .text_label-0x51IV {
   background-color: transparent;
   height: auto;
   left: 26px;
@@ -3741,7 +3964,7 @@
   width: 272px;
 }
 
-.gglabs-pad-home .desire-to-make-the-h-HUvVmj {
+.gglabs-pad-home .become-a-minimalist-in-my-next-life-HUvVmj {
   background-color: transparent;
   height: auto;
   left: 0px;
@@ -4611,7 +4834,7 @@
   left: 584px;
   opacity: 0.1;
   position: absolute;
-  top: 6577px;
+  top: 6712px;
   width: 230px;
 }
 
@@ -4638,10 +4861,10 @@
 .gglabs-pad-home .group-NNkiL1 {
   background-color: transparent;
   height: 204px;
-  left: 13px;
+  left: 30px;
   position: absolute;
   top: 13px;
-  width: 205px;
+  width: 171px;
 }
 
 .gglabs-pad-home .logog-glabssymbol-NNkiL1 {
@@ -4651,7 +4874,7 @@
   mix-blend-mode: normal;
   position: absolute;
   top: 78px;
-  width: 111px;
+  width: 110px;
 }
 
 .gglabs-pad-home .group-220-xDy5O1 {
@@ -4659,7 +4882,7 @@
   height: 536px;
   left: 50px;
   position: absolute;
-  top: 6533px;
+  top: 6668px;
   width: 674px;
 }
 
@@ -4752,39 +4975,10 @@
   width: 327px;
 }
 
-.gglabs-pad-home .group-34-pH424V {
-  background-color: transparent;
-  height: 68px;
-  left: 90px;
-  position: absolute;
-  top: 82px;
-  width: 78px;
-}
-
-.gglabs-pad-home .rectangle-40-xxIPZH {
-  background-color: var(--royal-blue);
-  border-radius: 2px;
-  height: 68px;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 78px;
-}
-
-.gglabs-pad-home .iconsns-discord-xxIPZH {
-  background-color: transparent;
-  height: 40px;
-  left: 19px;
-  position: absolute;
-  top: 14px;
-  width: 40px;
-}
-
 .gglabs-pad-home .group-36-pH424V {
   background-color: transparent;
   height: 68px;
-  left: 180px;
+  left: 94px;
   position: absolute;
   top: 82px;
   width: 78px;
@@ -4845,7 +5039,7 @@
   height: 452px;
   left: 50px;
   position: absolute;
-  top: 5961px;
+  top: 6096px;
   width: 672px;
 }
 
@@ -5011,7 +5205,7 @@
   height: 126px;
   left: 0px;
   position: absolute;
-  top: 7269px;
+  top: 7404px;
   width: 768px;
 }
 
@@ -5049,7 +5243,7 @@
   mix-blend-mode: normal;
   position: absolute;
   top: 0px;
-  width: 69px;
+  width: 68px;
 }
 
 .gglabs-pad-home .group-tsIUhV {
@@ -5063,7 +5257,7 @@
 
 .gglabs-pad-home .union-txlojB {
   background-color: transparent;
-  height: 39px;
+  height: 38px;
   left: -0px;
   mix-blend-mode: normal;
   position: absolute;
@@ -5071,7 +5265,7 @@
   width: 83px;
 }
 
-.gglabs-pad-home .x2021-good-gang-labs-k7Zxxu {
+.gglabs-pad-home .x2022-good-gang-labs-pte-ltd-k7Zxxu {
   background-color: transparent;
   color: var(--santas-gray);
   font-family: var(--font-family-poppins);
@@ -5153,7 +5347,7 @@
   mix-blend-mode: normal;
   position: absolute;
   top: 0px;
-  width: 66px;
+  width: 65px;
 }
 
 .gglabs-web-home .group-q91XM0 {
@@ -5167,7 +5361,7 @@
 
 .gglabs-web-home .union-i0Y6s3 {
   background-color: transparent;
-  height: 37px;
+  height: 36px;
   left: -0px;
   mix-blend-mode: normal;
   position: absolute;
@@ -5175,7 +5369,7 @@
   width: 79px;
 }
 
-.gglabs-web-home .x2021-good-gang-labs-Qtahxw {
+.gglabs-web-home .x2022-good-gang-labs-pte-ltd-Qtahxw {
   background-color: transparent;
   color: var(--santas-gray);
   font-family: var(--font-family-poppins);
@@ -5333,7 +5527,7 @@
 .gglabs-web-home .coming-soon-UXh7xA {
   background-color: transparent;
   height: auto;
-  left: 16px;
+  left: 30px;
   letter-spacing: -0.32px;
   line-height: 28px;
   mix-blend-mode: normal;
@@ -5422,7 +5616,7 @@
 .gglabs-web-home .coming-soon-cmszX3 {
   background-color: transparent;
   height: auto;
-  left: 16px;
+  left: 30px;
   letter-spacing: -0.32px;
   line-height: 28px;
   mix-blend-mode: normal;
@@ -5483,7 +5677,7 @@
 .gglabs-web-home .coming-soon-kUrSXG {
   background-color: transparent;
   height: auto;
-  left: 16px;
+  left: 30px;
   letter-spacing: -0.32px;
   line-height: 28px;
   mix-blend-mode: normal;
@@ -5738,7 +5932,7 @@
   font-style: normal;
   font-weight: 800;
   height: auto;
-  left: 19px;
+  left: 35px;
   letter-spacing: 0.00px;
   line-height: 36px;
   mix-blend-mode: normal;
@@ -5761,7 +5955,7 @@
 
 .gglabs-web-home .group-169-nYQRPj {
   background-color: transparent;
-  height: 1610px;
+  height: 1673px;
   left: 360px;
   position: absolute;
   top: 5350px;
@@ -5797,7 +5991,7 @@
 
 .gglabs-web-home .group-168-8wjUuG {
   background-color: transparent;
-  height: 1188px;
+  height: 1251px;
   left: 0px;
   position: absolute;
   top: 422px;
@@ -5931,6 +6125,146 @@
 }
 
 .gglabs-web-home .text_label-xFcdpQ {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: 54px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.gglabs-web-home .group-295-TM83g9 {
+  background-color: transparent;
+  height: 245px;
+  left: 0px;
+  position: absolute;
+  top: 1006px;
+  width: 384px;
+}
+
+.gglabs-web-home .group-217-8a19fc {
+  background-color: transparent;
+  height: 245px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 386px;
+}
+
+.gglabs-web-home .group-167-cNap9y {
+  background-color: transparent;
+  height: 222px;
+  left: 0px;
+  position: absolute;
+  top: 23px;
+  width: 384px;
+}
+
+.gglabs-web-home .frame-3-jzmdMm {
+  background-color: var(--woodsmoke);
+  border-radius: 4px;
+  height: 222px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 384px;
+}
+
+.gglabs-web-home .frame-2-pkdILo {
+  background-color: transparent;
+  height: 150px;
+  left: 26px;
+  position: relative;
+  top: 40px;
+  width: 332px;
+}
+
+.gglabs-web-home .community-music-0ce9xx {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 169px;
+}
+
+.gglabs-web-home .frame-1-0ce9xx {
+  background-color: transparent;
+  height: 104px;
+  left: 0px;
+  position: absolute;
+  top: 46px;
+  width: 332px;
+}
+
+.gglabs-web-home .ycyhw-kfv6qh {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 332px;
+}
+
+.gglabs-web-home .musician-by-day-an-nft-trader-by-night-kfv6qh {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  white-space: nowrap;
+  width: 332px;
+}
+
+.gglabs-web-home .group-291-kfv6qh {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  top: 72px;
+  width: 70px;
+}
+
+.gglabs-web-home .iconsns-instagram-NgIHmC {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.gglabs-web-home .iconsns-twitter-NgIHmC {
+  background-color: transparent;
+  height: 32px;
+  left: 38px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.gglabs-web-home .text_label-cNap9y {
   background-color: transparent;
   height: auto;
   left: 26px;
@@ -6485,7 +6819,7 @@
   width: 332px;
 }
 
-.gglabs-web-home .desire-to-make-the-h-TXDEqx {
+.gglabs-web-home .become-a-minimalist-in-my-next-life-TXDEqx {
   background-color: transparent;
   height: auto;
   left: 0px;
@@ -7026,7 +7360,7 @@
 
 .gglabs-web-home .uig-glabsteam_web-licMsM {
   background-color: transparent;
-  height: 231px;
+  height: 207px;
   left: 816px;
   position: absolute;
   top: 844px;
@@ -7365,7 +7699,7 @@
   height: 754px;
   left: 360px;
   position: absolute;
-  top: 8236px;
+  top: 8299px;
   width: 1213px;
 }
 
@@ -7457,39 +7791,10 @@
   width: 327px;
 }
 
-.gglabs-web-home .group-34-p7MzL0 {
-  background-color: transparent;
-  height: 68px;
-  left: 90px;
-  position: absolute;
-  top: 158px;
-  width: 78px;
-}
-
-.gglabs-web-home .rectangle-40-jaLBYN {
-  background-color: var(--royal-blue);
-  border-radius: 2px;
-  height: 68px;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 78px;
-}
-
-.gglabs-web-home .iconsns-discord-jaLBYN {
-  background-color: transparent;
-  height: 40px;
-  left: 19px;
-  position: absolute;
-  top: 14px;
-  width: 40px;
-}
-
 .gglabs-web-home .group-36-p7MzL0 {
   background-color: transparent;
   height: 68px;
-  left: 180px;
+  left: 94px;
   position: absolute;
   top: 158px;
   width: 78px;
@@ -7599,7 +7904,7 @@
   height: 776px;
   left: 360px;
   position: absolute;
-  top: 7210px;
+  top: 7273px;
   width: 1207px;
 }
 
@@ -7768,10 +8073,10 @@
    }
 }
 @media screen and (min-width: 768px) and (max-width: 1919px) {
-  .screen.gglabs-web-home { 
+  .screen.gglabs-mobile-home { 
     display: none;
    }
-  .screen.gglabs-mobile-home { 
+  .screen.gglabs-web-home { 
     display: none;
    }
 }
