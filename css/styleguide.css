@@ -52,20 +52,20 @@
   font-weight: 400;
 }
 
-.poppins-bold-white-16px {
-  color: var(--white);
-  font-family: var(--font-family-poppins);
-  font-size: var(--font-size-l);
-  font-style: normal;
-  font-weight: 700;
-}
-
 .poppins-normal-white-42px {
   color: var(--white);
   font-family: var(--font-family-poppins);
   font-size: 42px;
   font-style: normal;
   font-weight: 400;
+}
+
+.poppins-bold-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
 }
 
 .poppins-bold-purple-heart-16px {
