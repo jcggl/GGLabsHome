@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.0f83e43a.css",
-    "main.js": "/static/js/main.c3647611.js",
+    "main.css": "/static/css/main.767c9e17.css",
+    "main.js": "/static/js/main.4dc71aaf.js",
     "static/js/787.61aa6b13.chunk.js": "/static/js/787.61aa6b13.chunk.js",
-    "static/media/GangHouse.png": "/static/media/GangHouse.0fedd02fc0c91eed2a9a.png",
+    "static/media/Communication.png": "/static/media/Communication.0fedd02fc0c91eed2a9a.png",
     "static/media/SY.png": "/static/media/SY.e0c4a60aa25ffae96ab1.png",
-    "static/media/ARGang.png": "/static/media/ARGang.0342e553c361666f0a93.png",
-    "static/media/BeerGang.png": "/static/media/BeerGang.a09f1cff75ce32651a89.png",
+    "static/media/Camera.png": "/static/media/Camera.0342e553c361666f0a93.png",
+    "static/media/Avatar.png": "/static/media/Avatar.a09f1cff75ce32651a89.png",
     "static/media/header-img.png": "/static/media/header-img.b7a8050c50e3e0998478.png",
     "static/media/DK.png": "/static/media/DK.40dcf93090dd6713e8d0.png",
     "static/media/JC.png": "/static/media/JC.f26a393999c23d5c433c.png",
@@ -20,12 +20,12 @@
     "static/media/Naverz.png": "/static/media/Naverz.5287fb4e7ce5e6ca6b81.png",
     "static/media/KimgisaLabs.png": "/static/media/KimgisaLabs.e3f2aa3bcd9a2a7c7b6c.png",
     "index.html": "/index.html",
-    "main.0f83e43a.css.map": "/static/css/main.0f83e43a.css.map",
-    "main.c3647611.js.map": "/static/js/main.c3647611.js.map",
+    "main.767c9e17.css.map": "/static/css/main.767c9e17.css.map",
+    "main.4dc71aaf.js.map": "/static/js/main.4dc71aaf.js.map",
     "787.61aa6b13.chunk.js.map": "/static/js/787.61aa6b13.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f83e43a.css",
-    "static/js/main.c3647611.js"
+    "static/css/main.767c9e17.css",
+    "static/js/main.4dc71aaf.js"
   ]
 }
