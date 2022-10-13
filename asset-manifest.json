@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.767c9e17.css",
-    "main.js": "/static/js/main.4adf8d26.js",
+    "main.css": "/static/css/main.27843bb2.css",
+    "main.js": "/static/js/main.e7b22b0c.js",
     "static/media/Communication.png": "/static/media/Communication.0fedd02fc0c91eed2a9a.png",
     "static/media/SY.png": "/static/media/SY.e0c4a60aa25ffae96ab1.png",
     "static/media/Camera.png": "/static/media/Camera.0342e553c361666f0a93.png",
@@ -12,6 +12,7 @@
     "static/media/JH.png": "/static/media/JH.e7ba1bebb07b2af5f92c.png",
     "static/media/JHK.png": "/static/media/JHK.95b422424f439056b796.png",
     "static/media/HW.png": "/static/media/HW.160043c8745143c0cc34.png",
+    "static/media/BL.png": "/static/media/BL.b95eb7a298a958cfe674.png",
     "static/media/KP.png": "/static/media/KP.da5393993b01ab00e76f.png",
     "static/media/JJ.png": "/static/media/JJ.c749616dadc9c452e1a2.png",
     "static/media/symbol.png": "/static/media/symbol.b13ec991ad58bcef3833.png",
@@ -19,11 +20,11 @@
     "static/media/Naverz.png": "/static/media/Naverz.5287fb4e7ce5e6ca6b81.png",
     "static/media/KimgisaLabs.png": "/static/media/KimgisaLabs.e3f2aa3bcd9a2a7c7b6c.png",
     "index.html": "/index.html",
-    "main.767c9e17.css.map": "/static/css/main.767c9e17.css.map",
-    "main.4adf8d26.js.map": "/static/js/main.4adf8d26.js.map"
+    "main.27843bb2.css.map": "/static/css/main.27843bb2.css.map",
+    "main.e7b22b0c.js.map": "/static/js/main.e7b22b0c.js.map"
   },
   "entrypoints": [
-    "static/css/main.767c9e17.css",
-    "static/js/main.4adf8d26.js"
+    "static/css/main.27843bb2.css",
+    "static/js/main.e7b22b0c.js"
   ]
 }
