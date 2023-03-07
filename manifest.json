@@ -3,20 +3,21 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "favicon_goodganglabs.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "image/SEO_GG_120x120.jpg",
-      "type": "image/jpg",
-      "sizes": "192x192"
+      "src": "images/SEO_GG_120x120.jpg",
+      "sizes": "120x120",
+      "type": "image/jpg"
     },
     {
-      "src": "image/SEO_GG_1200x1200.jpg",
-      "type": "image/jpg",
-      "sizes": "512x512"
+      "src": "images/SEO_GG_1200x1200.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg"
     }
+
   ],
   "start_url": ".",
   "display": "standalone",
