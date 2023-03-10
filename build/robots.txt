@@ -1,0 +1,3 @@
+Sitemap: https://goodganglabs.com/sitemap.xml
+User-agent: *
+Allow: /
