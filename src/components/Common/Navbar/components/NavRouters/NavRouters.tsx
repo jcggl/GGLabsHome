@@ -50,7 +50,7 @@ const NavRouters = ({
         );
       })}
       <div
-        className={`relative flex justify-center items-center pad:w-[clamp(96px,8.889vw,154px)] desktop:w-[clamp(145px,7.552vw,174px)] ${isHomeBackground} rounded-[5rem] transition duration-[150ms] aspect-[96/28] font-medium font-spline tracking-[.01em]`}
+        className={`relative flex justify-center items-center pad:w-[clamp(96px,8.889vw,154px)] desktop:w-[clamp(145px,7.552vw,174px)] ${isHomeBackground} rounded-[5rem] transition duration-[150ms] aspect-[96/28] font-medium font-spline tracking-[.01em] cursor-pointer`}
         onMouseOver={expandDiv}
         onMouseLeave={shortenDiv}
       >
