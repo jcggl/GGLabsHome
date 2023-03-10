@@ -1,25 +1,3 @@
-## 1. Development
-
-```bash
-$ npm install
-$ npm run start
-```
-
-## 2. Build
-
-```bash
-$ npm run build
-```
-
-- check build folder on root folder
-
-## 3. Storybook
-
-```bash
-$ npm run storybook
-```
-
-## 4. 개발 과정
-
-- Notion: https://cerulean-address-b3e.notion.site/59077f917f924a85bc5a0a9ce8e2286d
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:27b91cac93248fd4f25a4392676b217c69a7cbfcbdcbbf9881dc3c531738f9e6
+size 297
