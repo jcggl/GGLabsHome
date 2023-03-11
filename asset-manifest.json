@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.81d34471.css",
-    "main.js": "./static/js/main.c67a73db.js",
+    "main.js": "./static/js/main.8936a7d5.js",
     "static/js/27.c92d5f1f.chunk.js": "./static/js/27.c92d5f1f.chunk.js",
     "static/media/kiki_video.mp4": "./static/media/kiki_video.4e524c53f5699bb66a24.mp4",
     "static/media/marionette_video.mp4": "./static/media/marionette_video.bb64bee92cd70b632db9.mp4",
@@ -66,6 +66,6 @@
   },
   "entrypoints": [
     "static/css/main.81d34471.css",
-    "static/js/main.c67a73db.js"
+    "static/js/main.8936a7d5.js"
   ]
 }
