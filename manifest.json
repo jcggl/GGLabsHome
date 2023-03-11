@@ -3,9 +3,9 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "favicon_goodganglabs.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "images/SEO_GG_32x32.jpg",
+      "sizes": "32x32",
+      "type": "image/jpg"
     },
     {
       "src": "images/SEO_GG_120x120.jpg",
