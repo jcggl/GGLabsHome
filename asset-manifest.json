@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.f5701171.css",
-    "main.js": "/static/js/main.bdcd8161.js",
+    "main.css": "/static/css/main.1a917288.css",
+    "main.js": "/static/js/main.b39687c8.js",
     "static/js/27.c92d5f1f.chunk.js": "/static/js/27.c92d5f1f.chunk.js",
     "static/media/kiki_video.mp4": "/static/media/kiki_video.4e524c53f5699bb66a24.mp4",
-    "static/media/marionette_video.mp4": "/static/media/marionette_video.bb64bee92cd70b632db9.mp4",
     "static/media/beergang_video.mp4": "/static/media/beergang_video.2fb5d247e17c6e4faeed.mp4",
+    "static/media/marionette_video.mp4": "/static/media/marionette_video.b67e9d9e7034e549e509.mp4",
     "static/media/members.webp": "/static/media/members.e509f58ad7d28c032c6f.webp",
     "static/media/top-wall.webp": "/static/media/top-wall.3cc6686af481bf9da1a5.webp",
     "static/media/beergang1.webp": "/static/media/beergang1.3e381f25fae27ffe2ce1.webp",
@@ -19,6 +19,8 @@
     "static/media/marionette1.webp": "/static/media/marionette1.34a373efcd7acdba8957.webp",
     "static/media/beergang3.webp": "/static/media/beergang3.a986db146b9d59357636.webp",
     "static/media/kikitown2.webp": "/static/media/kikitown2.3c9eb777f59d1e9b6c87.webp",
+    "static/media/thumbnail_1.webp": "/static/media/thumbnail_1.487cac9811c26beb0755.webp",
+    "static/media/thumbnail_3.webp": "/static/media/thumbnail_3.6b7fd1c37f2b666f8be3.webp",
     "static/media/tech-webcam2.webp": "/static/media/tech-webcam2.ba9bc538efd7d14ca4e5.webp",
     "static/media/bottom-wall.webp": "/static/media/bottom-wall.8702143cfd02a35616ac.webp",
     "static/media/right.webp": "/static/media/right.fa1b83f6d9745a4fa4b7.webp",
@@ -27,6 +29,7 @@
     "static/media/bottom.webp": "/static/media/bottom.2d59432411efc811e273.webp",
     "static/media/DK.webp": "/static/media/DK.5c023a065e6cd1acd170.webp",
     "static/media/tech-voice1.webp": "/static/media/tech-voice1.67e84ccda7f2dadd28a3.webp",
+    "static/media/thumbnail_2.webp": "/static/media/thumbnail_2.a965faca01b538a07183.webp",
     "static/media/SY.webp": "/static/media/SY.382e6d320e85ae5b0bad.webp",
     "static/media/d2-startup.svg": "/static/media/d2-startup.ba35796c9e9158718e8e405b85bb9469.svg",
     "static/media/nvidia.svg": "/static/media/nvidia.eb47657bd1ab7d808ff7b1495f820e67.svg",
@@ -65,7 +68,7 @@
     "static/media/arrow-left.svg": "/static/media/arrow-left.ef642f3486c93b3d552d259146fc43d7.svg"
   },
   "entrypoints": [
-    "static/css/main.f5701171.css",
-    "static/js/main.bdcd8161.js"
+    "static/css/main.1a917288.css",
+    "static/js/main.b39687c8.js"
   ]
 }
