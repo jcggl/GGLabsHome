@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1a917288.css",
-    "main.js": "/static/js/main.b39687c8.js",
+    "main.css": "/static/css/main.5416d64d.css",
+    "main.js": "/static/js/main.3484d007.js",
     "static/js/27.c92d5f1f.chunk.js": "/static/js/27.c92d5f1f.chunk.js",
     "static/media/kiki_video.mp4": "/static/media/kiki_video.4e524c53f5699bb66a24.mp4",
     "static/media/beergang_video.mp4": "/static/media/beergang_video.2fb5d247e17c6e4faeed.mp4",
@@ -33,7 +33,6 @@
     "static/media/SY.webp": "/static/media/SY.382e6d320e85ae5b0bad.webp",
     "static/media/d2-startup.svg": "/static/media/d2-startup.ba35796c9e9158718e8e405b85bb9469.svg",
     "static/media/nvidia.svg": "/static/media/nvidia.eb47657bd1ab7d808ff7b1495f820e67.svg",
-    "static/media/kimgisa-lab.svg": "/static/media/kimgisa-lab.48170e9321b481c13091e1b407b20bc9.svg",
     "static/media/img_partners_KP.webp": "/static/media/img_partners_KP.e87b79f95c9ca7ea3319.webp",
     "static/media/line-next.svg": "/static/media/line-next.4bb6e88ee4c381ccaf31a24da1b2587c.svg",
     "static/media/img_partners_JC.webp": "/static/media/img_partners_JC.0de9363ada1d1c086593.webp",
@@ -43,10 +42,11 @@
     "static/media/img_partners_JJ.webp": "/static/media/img_partners_JJ.53ef1abb5e62d949921f.webp",
     "static/media/Intersect-reverse.svg": "/static/media/Intersect-reverse.effef0e7209c66de38df93b3cf358687.svg",
     "static/media/Intersect.svg": "/static/media/Intersect.2920756310fc0c97e90641443b143ab8.svg",
-    "static/media/kimgisa-lab-grey.svg": "/static/media/kimgisa-lab-grey.77d948a1f4d0ddd53866e26851b752c6.svg",
+    "static/media/kimgisa-lab-grey.svg": "/static/media/kimgisa-lab-grey.f3cd9dcdddcc51ebace47f7b00b4abc0.svg",
     "static/media/sub-intro.svg": "/static/media/sub-intro.76f783127fb981c725e50c2498e9e92f.svg",
     "static/media/tech-2.svg": "/static/media/tech-2.d8a653e758e706d3316a11643fedd3a4.svg",
     "static/media/tech-3.svg": "/static/media/tech-3.a8d68f8db8a92f9e979dce9f28bf7e79.svg",
+    "static/media/kimgisa-lab.svg": "/static/media/kimgisa-lab.a89735c9dfdacf3075b2c6ae645949db.svg",
     "static/media/dosi.svg": "/static/media/dosi.1c3ee10adda379133e72ff87dd68b9ee.svg",
     "static/media/tech-1.svg": "/static/media/tech-1.4cf1615d0fe3a465f2f8a968095b852e.svg",
     "index.html": "/index.html",
@@ -68,7 +68,7 @@
     "static/media/arrow-left.svg": "/static/media/arrow-left.ef642f3486c93b3d552d259146fc43d7.svg"
   },
   "entrypoints": [
-    "static/css/main.1a917288.css",
-    "static/js/main.b39687c8.js"
+    "static/css/main.5416d64d.css",
+    "static/js/main.3484d007.js"
   ]
 }
