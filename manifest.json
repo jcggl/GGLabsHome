@@ -14,10 +14,9 @@
     },
     {
       "src": "images/SEO_GG_1200x1200.jpg",
-      "sizes": "512x512",
+      "sizes": "1200x1200",
       "type": "image/jpg"
     }
-
   ],
   "start_url": ".",
   "display": "standalone",

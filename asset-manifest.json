@@ -1,23 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.5416d64d.css",
-    "main.js": "/static/js/main.3484d007.js",
+    "main.js": "/static/js/main.d9eff4df.js",
     "static/js/27.c92d5f1f.chunk.js": "/static/js/27.c92d5f1f.chunk.js",
     "static/media/kiki_video.mp4": "/static/media/kiki_video.4e524c53f5699bb66a24.mp4",
     "static/media/beergang_video.mp4": "/static/media/beergang_video.2fb5d247e17c6e4faeed.mp4",
     "static/media/marionette_video.mp4": "/static/media/marionette_video.b67e9d9e7034e549e509.mp4",
     "static/media/members.webp": "/static/media/members.e509f58ad7d28c032c6f.webp",
     "static/media/top-wall.webp": "/static/media/top-wall.3cc6686af481bf9da1a5.webp",
-    "static/media/beergang1.webp": "/static/media/beergang1.3e381f25fae27ffe2ce1.webp",
     "static/media/JC.webp": "/static/media/JC.da8271612e8653bea339.webp",
     "static/media/left-wall.webp": "/static/media/left-wall.589e49dce81f20324043.webp",
     "static/media/right-wall.webp": "/static/media/right-wall.a4516b388dd8d1043007.webp",
     "static/media/kikitown3.webp": "/static/media/kikitown3.58c8c4857b496de6b9d2.webp",
     "static/media/kikitown1.webp": "/static/media/kikitown1.d710c876bd2e7d01e8d6.webp",
-    "static/media/beergang2.webp": "/static/media/beergang2.d6cb27fc4fee0275a9e3.webp",
     "static/media/tech-webcam1.webp": "/static/media/tech-webcam1.11664541a381f73451da.webp",
     "static/media/marionette1.webp": "/static/media/marionette1.34a373efcd7acdba8957.webp",
-    "static/media/beergang3.webp": "/static/media/beergang3.a986db146b9d59357636.webp",
     "static/media/kikitown2.webp": "/static/media/kikitown2.3c9eb777f59d1e9b6c87.webp",
     "static/media/thumbnail_1.webp": "/static/media/thumbnail_1.487cac9811c26beb0755.webp",
     "static/media/thumbnail_3.webp": "/static/media/thumbnail_3.6b7fd1c37f2b666f8be3.webp",
@@ -69,6 +66,6 @@
   },
   "entrypoints": [
     "static/css/main.5416d64d.css",
-    "static/js/main.3484d007.js"
+    "static/js/main.d9eff4df.js"
   ]
 }
