@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5416d64d.css",
-    "main.js": "/static/js/main.d9eff4df.js",
+    "main.css": "/static/css/main.86a145e8.css",
+    "main.js": "/static/js/main.c748da6d.js",
     "static/js/27.c92d5f1f.chunk.js": "/static/js/27.c92d5f1f.chunk.js",
     "static/media/kiki_video.mp4": "/static/media/kiki_video.4e524c53f5699bb66a24.mp4",
     "static/media/beergang_video.mp4": "/static/media/beergang_video.2fb5d247e17c6e4faeed.mp4",
@@ -49,6 +49,7 @@
     "index.html": "/index.html",
     "static/media/coming-soon.svg": "/static/media/coming-soon.cf07e55099a8ee18f5fc1126c19d8cb7.svg",
     "static/media/naver-z.svg": "/static/media/naver-z.45ce9dfd763c24b25d6aa45d892c5d62.svg",
+    "static/media/tech-demo.svg": "/static/media/tech-demo.bded69882d67dab73530d418038b5c51.svg",
     "static/media/linkedin-lg.svg": "/static/media/linkedin-lg.3ebcfd65b4c5f47a11d5a9d05f0754cd.svg",
     "static/media/discord-lg.svg": "/static/media/discord-lg.fe5ad0fb11e44abe99d9a3ccc5ab4592.svg",
     "static/media/twitter-lg.svg": "/static/media/twitter-lg.7ee23a8e5659752b69daf8db7b5203ee.svg",
@@ -65,7 +66,7 @@
     "static/media/arrow-left.svg": "/static/media/arrow-left.ef642f3486c93b3d552d259146fc43d7.svg"
   },
   "entrypoints": [
-    "static/css/main.5416d64d.css",
-    "static/js/main.d9eff4df.js"
+    "static/css/main.86a145e8.css",
+    "static/js/main.c748da6d.js"
   ]
 }
