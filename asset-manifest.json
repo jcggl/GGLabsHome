@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0386b2d7.css",
-    "main.js": "/static/js/main.4bf60355.js",
+    "main.js": "/static/js/main.04852e5c.js",
     "static/js/27.c92d5f1f.chunk.js": "/static/js/27.c92d5f1f.chunk.js",
     "static/media/kiki_video.mp4": "/static/media/kiki_video.4e524c53f5699bb66a24.mp4",
     "static/media/beergang_video.mp4": "/static/media/beergang_video.2fb5d247e17c6e4faeed.mp4",
@@ -67,6 +67,6 @@
   },
   "entrypoints": [
     "static/css/main.0386b2d7.css",
-    "static/js/main.4bf60355.js"
+    "static/js/main.04852e5c.js"
   ]
 }
