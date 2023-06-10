@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c53d8c9c.css",
-    "main.js": "/static/js/main.bbe6bf5b.js",
+    "main.css": "/static/css/main.eb958a1b.css",
+    "main.js": "/static/js/main.e6519cf0.js",
     "static/js/27.c92d5f1f.chunk.js": "/static/js/27.c92d5f1f.chunk.js",
     "static/media/kiki_video.mp4": "/static/media/kiki_video.4e524c53f5699bb66a24.mp4",
     "static/media/beergang_video.mp4": "/static/media/beergang_video.2fb5d247e17c6e4faeed.mp4",
@@ -67,7 +67,7 @@
     "static/media/arrow-left.svg": "/static/media/arrow-left.ef642f3486c93b3d552d259146fc43d7.svg"
   },
   "entrypoints": [
-    "static/css/main.c53d8c9c.css",
-    "static/js/main.bbe6bf5b.js"
+    "static/css/main.eb958a1b.css",
+    "static/js/main.e6519cf0.js"
   ]
 }
