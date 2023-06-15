@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.eb958a1b.css",
-    "main.js": "/static/js/main.e6519cf0.js",
-    "static/js/27.c92d5f1f.chunk.js": "/static/js/27.c92d5f1f.chunk.js",
+    "main.css": "/static/css/main.51edb976.css",
+    "main.js": "/static/js/main.ac2b9bb8.js",
+    "static/js/472.5bcb4684.chunk.js": "/static/js/472.5bcb4684.chunk.js",
+    "static/js/27.7637ef3c.chunk.js": "/static/js/27.7637ef3c.chunk.js",
     "static/media/kiki_video.mp4": "/static/media/kiki_video.4e524c53f5699bb66a24.mp4",
     "static/media/beergang_video.mp4": "/static/media/beergang_video.2fb5d247e17c6e4faeed.mp4",
     "static/media/marionette_video.mp4": "/static/media/marionette_video.b67e9d9e7034e549e509.mp4",
@@ -63,11 +64,12 @@
     "static/media/play-button.svg": "/static/media/play-button.93404056ac0a3d8decbbfe638db4d746.svg",
     "static/media/hamburger.svg": "/static/media/hamburger.91b75108cc81127ce67620b71d47f149.svg",
     "static/media/long-arrow-right.svg": "/static/media/long-arrow-right.50b33f65ab30c3c79718df07a4848d5b.svg",
+    "static/media/close-button-cookie.svg": "/static/media/close-button-cookie.30287ad4ebb91c6b903628bdd776086a.svg",
     "static/media/arrow-right.svg": "/static/media/arrow-right.fffc3faa807ff650d12ec59d7b9e9727.svg",
     "static/media/arrow-left.svg": "/static/media/arrow-left.ef642f3486c93b3d552d259146fc43d7.svg"
   },
   "entrypoints": [
-    "static/css/main.eb958a1b.css",
-    "static/js/main.e6519cf0.js"
+    "static/css/main.51edb976.css",
+    "static/js/main.ac2b9bb8.js"
   ]
 }
