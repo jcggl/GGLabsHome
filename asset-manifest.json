@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.51edb976.css",
-    "main.js": "/static/js/main.c1c94f8b.js",
+    "main.css": "/static/css/main.e1daa420.css",
+    "main.js": "/static/js/main.b5d891e3.js",
     "static/js/472.5bcb4684.chunk.js": "/static/js/472.5bcb4684.chunk.js",
     "static/js/27.7637ef3c.chunk.js": "/static/js/27.7637ef3c.chunk.js",
     "static/media/kiki_video.mp4": "/static/media/kiki_video.4e524c53f5699bb66a24.mp4",
@@ -23,6 +23,7 @@
     "static/media/bottom-wall.webp": "/static/media/bottom-wall.8702143cfd02a35616ac.webp",
     "static/media/right.webp": "/static/media/right.fa1b83f6d9745a4fa4b7.webp",
     "static/media/left.webp": "/static/media/left.ad973fb2be309bc3ecc2.webp",
+    "static/media/finschia.svg": "/static/media/finschia.0830b37e8c3ef8f1b086e7ae8b5c5aa3.svg",
     "static/media/top.webp": "/static/media/top.5ddc37f4f1440cb4ea0c.webp",
     "static/media/bottom.webp": "/static/media/bottom.2d59432411efc811e273.webp",
     "static/media/DK.webp": "/static/media/DK.5c023a065e6cd1acd170.webp",
@@ -32,13 +33,10 @@
     "static/media/d2-startup.svg": "/static/media/d2-startup.ba35796c9e9158718e8e405b85bb9469.svg",
     "static/media/nvidia.svg": "/static/media/nvidia.eb47657bd1ab7d808ff7b1495f820e67.svg",
     "static/media/kakao.svg": "/static/media/kakao.69f590a98f8d0662fdc67e34f5662ab5.svg",
-    "static/media/img_partners_KP.webp": "/static/media/img_partners_KP.e87b79f95c9ca7ea3319.webp",
     "static/media/line-next.svg": "/static/media/line-next.4bb6e88ee4c381ccaf31a24da1b2587c.svg",
-    "static/media/img_partners_JC.webp": "/static/media/img_partners_JC.0de9363ada1d1c086593.webp",
     "static/media/logo2.svg": "/static/media/logo2.35f1bae1eecb74aa36e6a53566770678.svg",
     "static/media/modal-background.svg": "/static/media/modal-background.b1bd71f002efa747fd32be69e2e7f6dd.svg",
     "static/media/planetarium.svg": "/static/media/planetarium.27ef9db4970300e544606d3c7f082e1b.svg",
-    "static/media/img_partners_JJ.webp": "/static/media/img_partners_JJ.53ef1abb5e62d949921f.webp",
     "static/media/Intersect-reverse.svg": "/static/media/Intersect-reverse.effef0e7209c66de38df93b3cf358687.svg",
     "static/media/Intersect.svg": "/static/media/Intersect.2920756310fc0c97e90641443b143ab8.svg",
     "static/media/kimgisa-lab-grey.svg": "/static/media/kimgisa-lab-grey.f3cd9dcdddcc51ebace47f7b00b4abc0.svg",
@@ -69,7 +67,7 @@
     "static/media/arrow-left.svg": "/static/media/arrow-left.ef642f3486c93b3d552d259146fc43d7.svg"
   },
   "entrypoints": [
-    "static/css/main.51edb976.css",
-    "static/js/main.c1c94f8b.js"
+    "static/css/main.e1daa420.css",
+    "static/js/main.b5d891e3.js"
   ]
 }
