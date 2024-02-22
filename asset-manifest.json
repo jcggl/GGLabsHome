@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0db01935.css",
-    "main.js": "/static/js/main.69edb577.js",
+    "main.css": "/static/css/main.c2727a18.css",
+    "main.js": "/static/js/main.484194e8.js",
     "static/js/472.5bcb4684.chunk.js": "/static/js/472.5bcb4684.chunk.js",
     "static/js/27.7637ef3c.chunk.js": "/static/js/27.7637ef3c.chunk.js",
     "static/media/kiki_video.mp4": "/static/media/kiki_video.4e524c53f5699bb66a24.mp4",
@@ -18,6 +18,7 @@
     "static/media/marionette1.webp": "/static/media/marionette1.34a373efcd7acdba8957.webp",
     "static/media/kikitown2.webp": "/static/media/kikitown2.3c9eb777f59d1e9b6c87.webp",
     "static/media/thumbnail_1.webp": "/static/media/thumbnail_1.487cac9811c26beb0755.webp",
+    "static/media/kikiz1.webp": "/static/media/kikiz1.45838142f584fc65ee21.webp",
     "static/media/thumbnail_3.webp": "/static/media/thumbnail_3.6b7fd1c37f2b666f8be3.webp",
     "static/media/tech-webcam2.webp": "/static/media/tech-webcam2.ba9bc538efd7d14ca4e5.webp",
     "static/media/bottom-wall.webp": "/static/media/bottom-wall.8702143cfd02a35616ac.webp",
@@ -67,7 +68,7 @@
     "static/media/arrow-left.svg": "/static/media/arrow-left.ef642f3486c93b3d552d259146fc43d7.svg"
   },
   "entrypoints": [
-    "static/css/main.0db01935.css",
-    "static/js/main.69edb577.js"
+    "static/css/main.c2727a18.css",
+    "static/js/main.484194e8.js"
   ]
 }
