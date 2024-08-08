@@ -1,11 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.ae5d30fb.css",
-    "main.js": "/static/js/main.de4ec49e.js",
+    "main.js": "/static/js/main.58d8ce19.js",
     "static/js/472.5bcb4684.chunk.js": "/static/js/472.5bcb4684.chunk.js",
     "static/js/27.7637ef3c.chunk.js": "/static/js/27.7637ef3c.chunk.js",
     "static/media/kiki_video.mp4": "/static/media/kiki_video.4e524c53f5699bb66a24.mp4",
-    "static/media/beergang_video.mp4": "/static/media/beergang_video.2fb5d247e17c6e4faeed.mp4",
     "static/media/marionette_video.mp4": "/static/media/marionette_video.b67e9d9e7034e549e509.mp4",
     "static/media/members.webp": "/static/media/members.e509f58ad7d28c032c6f.webp",
     "static/media/top-wall.webp": "/static/media/top-wall.3cc6686af481bf9da1a5.webp",
@@ -19,7 +18,6 @@
     "static/media/kikitown2.webp": "/static/media/kikitown2.3c9eb777f59d1e9b6c87.webp",
     "static/media/thumbnail_1.webp": "/static/media/thumbnail_1.487cac9811c26beb0755.webp",
     "static/media/kikiz1.webp": "/static/media/kikiz1.45838142f584fc65ee21.webp",
-    "static/media/thumbnail_3.webp": "/static/media/thumbnail_3.6b7fd1c37f2b666f8be3.webp",
     "static/media/tech-webcam2.webp": "/static/media/tech-webcam2.ba9bc538efd7d14ca4e5.webp",
     "static/media/bottom-wall.webp": "/static/media/bottom-wall.8702143cfd02a35616ac.webp",
     "static/media/right.webp": "/static/media/right.fa1b83f6d9745a4fa4b7.webp",
@@ -47,8 +45,8 @@
     "static/media/kimgisa-lab.svg": "/static/media/kimgisa-lab.a89735c9dfdacf3075b2c6ae645949db.svg",
     "static/media/dosi.svg": "/static/media/dosi.1c3ee10adda379133e72ff87dd68b9ee.svg",
     "static/media/tech-1.svg": "/static/media/tech-1.4cf1615d0fe3a465f2f8a968095b852e.svg",
-    "index.html": "/index.html",
     "static/media/coming-soon.svg": "/static/media/coming-soon.cf07e55099a8ee18f5fc1126c19d8cb7.svg",
+    "index.html": "/index.html",
     "static/media/naver-z.svg": "/static/media/naver-z.45ce9dfd763c24b25d6aa45d892c5d62.svg",
     "static/media/tech-demo.svg": "/static/media/tech-demo.bded69882d67dab73530d418038b5c51.svg",
     "static/media/linkedin-lg.svg": "/static/media/linkedin-lg.3ebcfd65b4c5f47a11d5a9d05f0754cd.svg",
@@ -69,6 +67,6 @@
   },
   "entrypoints": [
     "static/css/main.ae5d30fb.css",
-    "static/js/main.de4ec49e.js"
+    "static/js/main.58d8ce19.js"
   ]
 }
