@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cc333402.css",
-    "main.js": "/static/js/main.45777405.js",
+    "main.js": "/static/js/main.59d3cd98.js",
     "static/js/472.926a52e6.chunk.js": "/static/js/472.926a52e6.chunk.js",
     "static/js/27.c294aaca.chunk.js": "/static/js/27.c294aaca.chunk.js",
     "static/media/kiki_video.mp4": "/static/media/kiki_video.4e524c53f5699bb66a24.mp4",
@@ -65,6 +65,6 @@
   },
   "entrypoints": [
     "static/css/main.cc333402.css",
-    "static/js/main.45777405.js"
+    "static/js/main.59d3cd98.js"
   ]
 }
